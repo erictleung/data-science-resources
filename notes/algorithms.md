@@ -16,3 +16,11 @@ title: Algorithms
             - Move to good character if in pattern
         - Good suffix rule
             - Use suffix
+
+
+# Miscellaneous
+
+## Digest Problems
+
+- Partial digest problem
+- Double digest problem
