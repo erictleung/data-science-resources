@@ -17,5 +17,5 @@ def simple(size, weight=1):
     size:       number of nodes in the graph
     weight:     indicate weighted simple network (default = 1)
     """
-    graph = np.random.randint(weight+1, size=(width, height))
+    graph = np.random.randint(weight+1, size=(size, size))
     return(np.tril(graph) + np.tril(graph, -1).T - np.diag(graph.diagonal()))
