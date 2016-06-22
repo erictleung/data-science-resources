@@ -3,7 +3,7 @@
 # Description:  Demonstrate adjacency matrix notation for networks
 # Author:       Eric Leung
 # Date:         2016 May 18th
-# Version:      3.5.1
+# Python:       3.5.1
 
 import numpy as np  # 1.11.0
 
