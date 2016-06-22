@@ -19,3 +19,14 @@ def simple(size, weight=1):
     """
     graph = np.random.randint(weight+1, size=(size, size))
     return(np.tril(graph) + np.tril(graph, -1).T - np.diag(graph.diagonal()))
+
+def digraph(size, weight=1):
+    """
+    Generate a directed simple graph
+
+    Arguments:
+    size:       number of nodes in the graph
+    weight:     indicate weights of network (default = 1)
+    """
+    graph = np.random.randint(weight+1, size=(size, size))
+    return(graph - np.diag(graph.diagonal()))
