@@ -5,7 +5,7 @@
 # Date:         2016 May 18th
 # Version:      3.5.1
 
-import numpy  # 1.11.0
+import numpy as np  # 1.11.0
 
 # Initialize simple network in adjacency matrix
 A = [[0, 1, 0, 0, 1, 0],
