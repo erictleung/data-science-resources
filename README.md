@@ -37,6 +37,12 @@ I have found useful.
 
 ## Domain Knowledge
 
+- [Immunology][armando] - Basic immunology by Armando Hasudungan.
+- [Immune System][khan] - Khan Academy Medicine on the immune system.
+
+[armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
+[khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
