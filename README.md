@@ -7,6 +7,12 @@ I have found useful.
 
 ## Linear Algebra
 
+- [Essence of Linear Algebra][essence]
+- [MIT OCW 18.06SC Linear Algebra][linalgmit]
+
+[essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+[linalgmit]: http://bit.ly/2cvRwMe
+
 ## Algorithms
 
 - [Bioinformatic Algorithms][bioalg] - Algorithm lectures by Phillip Compeau
