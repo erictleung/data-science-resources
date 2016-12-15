@@ -74,6 +74,14 @@ I have found useful.
 [flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
 [condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
 
+## Should-Read Bioinformatics Papers
+
+- [Zhang Lab Recommendations][zhang]
+- [The Leek group guide to genomics papers][jtleek]
+
+[zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
+[jtleek]: https://github.com/jtleek/genomicspapers
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
