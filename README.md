@@ -7,7 +7,8 @@ I have found useful.
 
 ## Linear Algebra
 
-- [Essence of Linear Algebra][essence]
+- [Essence of Linear Algebra][essence] - Excellent, short overview of linear
+  algebra concepts that help develop intuition on the matter.
 - [MIT OCW 18.06SC Linear Algebra][linalgmit]
 
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
