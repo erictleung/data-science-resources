@@ -56,10 +56,13 @@ I have found useful.
 - [Immune System][khan] - Khan Academy Medicine on the immune system.
 - [Introduction to Flow Cytometry][flow] - Web-based training on how flow
   cytometry works and how to analyze and interpret its results.
+- [Conditional Knockout Mouse Models][condknock] - Explains basics of
+  conditional mouse models and compares to traditional mouse knockouts.
 
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
 [khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
 [flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
+[condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
 
 ## License
 
