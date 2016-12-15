@@ -19,9 +19,12 @@ I have found useful.
   and Pavel Pevzner.
 - [Algorithms for DNA Sequencing][benalg] - Ben Langmead's lectures algorithms
   used in DNA sequencing.
+- [Rosalind][rosa] - Learn bioinformatics and programming through problem
+  solving.
 
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
+[rosa]: http://rosalind.info/
 
 ## Programming
 
