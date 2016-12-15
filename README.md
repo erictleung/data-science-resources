@@ -5,6 +5,11 @@ I have found useful.
 
 ## Statistics
 
+- [Handbook of Biological Statistics][hb-stats] - Online set of notes from
+  "Biological Data Analysis" course from University of Delaware.
+
+[hb-stats]: http://www.biostathandbook.com/index.html
+
 ## Linear Algebra
 
 - [Essence of Linear Algebra][essence] - Excellent, short overview of linear
