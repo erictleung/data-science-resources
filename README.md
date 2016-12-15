@@ -49,9 +49,12 @@ I have found useful.
 
 - [Immunology][armando] - Basic immunology by Armando Hasudungan.
 - [Immune System][khan] - Khan Academy Medicine on the immune system.
+- [Introduction to Flow Cytometry][flow] - Web-based training on how flow
+  cytometry works and how to analyze and interpret its results.
 
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
 [khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
+[flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
 
 ## License
 
