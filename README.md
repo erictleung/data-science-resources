@@ -45,6 +45,11 @@ I have found useful.
 
 ## Statistical Methods and Machine Learning
 
+- [Naive Bayes Part 1][nb1] and [Naive Bayes Part 2][nb2]
+
+[nb1]: https://youtu.be/XcwH9JGfZOU
+[nb2]: https://youtu.be/k2diLn5Nqbs
+
 ## Computational Biology
 
 - [RPKM measure is inconsistent among samples][rpkm]
