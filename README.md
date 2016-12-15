@@ -23,6 +23,12 @@ I have found useful.
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 
+## Programming
+
+- [DevDocs][devdocs] - API documentation browser.
+
+[devdocs]: http://devdocs.io/
+
 ## Statistical Methods and Machine Learning
 
 ## Computational Biology
