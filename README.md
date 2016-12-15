@@ -7,8 +7,11 @@ I have found useful.
 
 - [Handbook of Biological Statistics][hb-stats] - Online set of notes from
   "Biological Data Analysis" course from University of Delaware.
+- [Engineering Statistics Handbook][niststats] - Handbook to help scientists
+  and engineering incorporate statistical methods.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
+[niststats]: http://itl.nist.gov/div898/handbook/index.htm
 
 ## Linear Algebra
 
