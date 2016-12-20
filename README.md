@@ -10,10 +10,13 @@ I have found useful.
 - [Engineering Statistics Handbook][niststats] - Handbook to help scientists
   and engineering incorporate statistical methods.
 - [P-values, False Discovery Rate (FDR) and q-values][pq-values]
+- [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
+  SPSS, and Stata.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
+[idre]: http://www.ats.ucla.edu/stat/
 
 ## Linear Algebra
 
