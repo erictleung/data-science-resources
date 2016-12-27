@@ -30,12 +30,15 @@ I have found useful.
 - [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
   SPSS, and Stata.
 - [FAQ: How do I interpret odds ratio in logistic regression?][logit]
+- [My statistics notes][mystats] and [scripts][mystatscript]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
 [idre]: http://www.ats.ucla.edu/stat/
 [logit]: http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm
+[mystats]: ./statistics.md
+[mystatscript]: ./sample.R
 
 ## Linear Algebra
 
