@@ -3,6 +3,9 @@
 Review and resource materials for bioinformatics and computational biology that
 I have found useful.
 
+<!--START doctoc-->
+<!--END doctoc-->
+
 ## Statistics
 
 - [Handbook of Biological Statistics][hb-stats] - Online set of notes from
@@ -28,6 +31,15 @@ I have found useful.
 
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [linalgmit]: http://bit.ly/2cvRwMe
+
+## Network Science
+
+- [Network Science Book][netbook] - Online book with visualizations and
+  interactive tools about network science by Albert-László Barabási.
+- [Graph Theory by Sarada Herke][graphherke] - YouTube series on graph theory.
+
+[netbook]: http://barabasi.com/networksciencebook/
+[graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
 ## Algorithms
 
