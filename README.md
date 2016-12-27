@@ -3,8 +3,22 @@
 Review and resource materials for bioinformatics and computational biology that
 I have found useful.
 
-<!--START doctoc-->
-<!--END doctoc-->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Statistics](#statistics)
+- [Linear Algebra](#linear-algebra)
+- [Network Science](#network-science)
+- [Algorithms](#algorithms)
+- [Programming](#programming)
+- [Statistical Methods and Machine Learning](#statistical-methods-and-machine-learning)
+- [Computational Biology](#computational-biology)
+- [Domain Knowledge](#domain-knowledge)
+- [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Statistics
 
