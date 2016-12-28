@@ -97,9 +97,12 @@ I have found useful.
 > programs — [Wikipedia][prog-wiki]
 
 - [DevDocs][devdocs] - API documentation browser.
+- [Hyperpolyglot][polyglot] - Commonly used features in programming languages
+  in side-by-side format.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
+[polyglot]: http://hyperpolyglot.org/
 
 ## Statistical Methods and Machine Learning
 
