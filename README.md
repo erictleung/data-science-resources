@@ -99,10 +99,13 @@ I have found useful.
 - [DevDocs][devdocs] - API documentation browser.
 - [Hyperpolyglot][polyglot] - Commonly used features in programming languages
   in side-by-side format.
+- [Learn X in Y Minutes][xiny] - Quick start to many programming languages, data
+  structures, and common tools.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
 [polyglot]: http://hyperpolyglot.org/
+[xiny]: https://learnxinyminutes.com/
 
 ## Statistical Methods and Machine Learning
 
