@@ -51,7 +51,7 @@ I have found useful.
 
 - [Essence of Linear Algebra][essence] - Excellent, short overview of linear
   algebra concepts that help develop intuition on the matter.
-- [MIT OCW 18.06SC Linear Algebra][linalgmit]
+- [MIT OCW 18.06SC Linear Algebra][linalgmit] - Taught by Gilbert Strang.
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
