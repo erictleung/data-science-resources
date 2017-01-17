@@ -39,6 +39,7 @@ I have found useful.
 - [Online Statistics Education][onlinestats] - Developed by Rice University,
   University of Houston Clear Lake, and Tufts University.
 - [BS704 Probability][buprob] - Boston University course on probability.
+- [Standard error of the mean of a sample binomial distribution][stderrbinom]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [hb-stats]: http://www.biostathandbook.com/index.html
@@ -52,6 +53,7 @@ I have found useful.
 [stattrek]: http://stattrek.com/
 [onlinestats]: http://onlinestatbook.com/2/index.html
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
+[stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 
 ## Linear Algebra
 
