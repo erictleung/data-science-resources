@@ -7,7 +7,7 @@ I have found useful.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Statistics](#statistics)
+- [Statistics and Probability](#statistics-and-probability)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
 - [Algorithms](#algorithms)
@@ -20,7 +20,7 @@ I have found useful.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Statistics
+## Statistics and Probability
 
 > Statistics is the study of the collection, analysis, interpretation,
 > presentation, and organization of data. — [Wikipedia][stats-wiki]
@@ -35,6 +35,10 @@ I have found useful.
 - [FAQ: How do I interpret odds ratio in logistic regression?][logit]
 - [My statistics notes][mystats] and [scripts][mystatscript]
 - [Quick-R][quickr] - Quick reference to statistical methods using R.
+- [Stat Trek][stattrek] - Teach yourself statistics.
+- [Online Statistics Education][onlinestats] - Developed by Rice University,
+  University of Houston Clear Lake, and Tufts University.
+- [BS704 Probability][buprob] - Boston University course on probability.
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [hb-stats]: http://www.biostathandbook.com/index.html
@@ -45,6 +49,9 @@ I have found useful.
 [mystats]: ./statistics.md
 [mystatscript]: ./sample.R
 [quickr]: http://www.statmethods.net/
+[stattrek]: http://stattrek.com/
+[onlinestats]: http://onlinestatbook.com/2/index.html
+[buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 
 ## Linear Algebra
 
