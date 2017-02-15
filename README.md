@@ -42,6 +42,9 @@ I have found useful.
 - [Standard error of the mean of a sample binomial distribution][stderrbinom]
 - [StatQuest][statquest] - Series of videos on miscellaneous complex topics
   such as p-values, principle component analysis (PCA), and R-squared.
+- [Common Probability Distributions: The Data Scientist's Crib
+  Sheet][cribsheet] - Data scientists have hundreds of probability
+  distributions from which to choose. Where to start?
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [hb-stats]: http://www.biostathandbook.com/index.html
@@ -57,6 +60,7 @@ I have found useful.
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 [stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
+[cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 
 ## Linear Algebra
 
