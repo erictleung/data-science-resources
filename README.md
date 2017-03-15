@@ -8,6 +8,8 @@ I have found useful.
 **Table of Contents**
 
 - [Statistics and Probability](#statistics-and-probability)
+  - [General Resources](#general-resources)
+  - [Specific Topics](#specific-topics)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
 - [Algorithms](#algorithms)
@@ -25,41 +27,47 @@ I have found useful.
 > Statistics is the study of the collection, analysis, interpretation,
 > presentation, and organization of data. — [Wikipedia][stats-wiki]
 
+### General Resources
+
 - [Handbook of Biological Statistics][hb-stats] - Online set of notes from
   "Biological Data Analysis" course from University of Delaware.
 - [Engineering Statistics Handbook][niststats] - Handbook to help scientists
   and engineering incorporate statistical methods.
-- [P-values, False Discovery Rate (FDR) and q-values][pq-values]
 - [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
   SPSS, and Stata.
-- [FAQ: How do I interpret odds ratio in logistic regression?][logit]
 - [My statistics notes][mystats] and [scripts][mystatscript]
 - [Quick-R][quickr] - Quick reference to statistical methods using R.
 - [Stat Trek][stattrek] - Teach yourself statistics.
 - [Online Statistics Education][onlinestats] - Developed by Rice University,
   University of Houston Clear Lake, and Tufts University.
 - [BS704 Probability][buprob] - Boston University course on probability.
-- [Standard error of the mean of a sample binomial distribution][stderrbinom]
 - [StatQuest][statquest] - Series of videos on miscellaneous complex topics
   such as p-values, principle component analysis (PCA), and R-squared.
-- [Common Probability Distributions: The Data Scientist's Crib
-  Sheet][cribsheet] - Data scientists have hundreds of probability
-  distributions from which to choose. Where to start?
 
-[stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
-[pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
 [idre]: http://www.ats.ucla.edu/stat/
-[logit]: http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm
 [mystats]: ./statistics.md
 [mystatscript]: ./sample.R
 [quickr]: http://www.statmethods.net/
 [stattrek]: http://stattrek.com/
 [onlinestats]: http://onlinestatbook.com/2/index.html
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
-[stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
+
+### Specific Topics
+
+- [P-values, False Discovery Rate (FDR) and q-values][pq-values]
+- [FAQ: How do I interpret odds ratio in logistic regression?][logit]
+- [Standard error of the mean of a sample binomial distribution][stderrbinom]
+- [Common Probability Distributions: The Data Scientist's Crib
+  Sheet][cribsheet] - Data scientists have hundreds of probability
+  distributions from which to choose. Where to start?
+
+[stats-wiki]: https://en.wikipedia.org/wiki/Statistics
+[pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
+[logit]: http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm
+[stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 
 ## Linear Algebra
