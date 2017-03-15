@@ -63,12 +63,16 @@ I have found useful.
 - [Common Probability Distributions: The Data Scientist's Crib
   Sheet][cribsheet] - Data scientists have hundreds of probability
   distributions from which to choose. Where to start?
+- [Choosing the correct statistical test in SAS, Stata, SPESS, and
+  R][chooseTest] - Table giving general guidelines on choosing statistical
+  tests.
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
 [logit]: http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm
 [stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
+[chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 
 ## Linear Algebra
 
