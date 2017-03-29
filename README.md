@@ -146,12 +146,14 @@ I have found useful.
 - [Naive Bayes Part 1][nb1] and [Naive Bayes Part 2][nb2]
 - [How to choose a predictive model after k-fold cross-validation?][cvFold]
 - [Parametric versus nonparametric bootstrap resampling][parNonparBootstrap]
+- [Feature engineering using R][featureR]
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
 [nb2]: https://youtu.be/k2diLn5Nqbs
 [cvFold]: http://stats.stackexchange.com/a/52277/132399
 [parNonparBootstrap]: http://stats.stackexchange.com/a/54855
+[featureR]: https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature-engineering-using-r/
 
 ## Computational Biology
 
