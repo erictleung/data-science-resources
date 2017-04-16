@@ -165,11 +165,14 @@ I have found useful.
 - [RPKM measure is inconsistent among samples][rpkm]
 - [RPKM-TPM.r][rpkm-tpm.r] - R script to show RPKM vs TPM
 - [StatQuest: RPKM, FPKM and TPM][statquest]
+- [Why do we use the negative binomial distribution for analysing RNAseq
+  data?][negbionom]
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
 [rpkm-tpm.r]: https://gist.github.com/johnstantongeddes/6925426
 [statquest]: https://youtu.be/TTUrtCY2k-w
+[negbionom]: http://bridgeslab.sph.umich.edu/posts/why-do-we-use-the-negative-binomial-distribution-for-rnaseq
 
 ## Domain Knowledge
 
