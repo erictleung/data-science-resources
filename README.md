@@ -63,7 +63,7 @@ I have found useful.
 - [Common Probability Distributions: The Data Scientist's Crib
   Sheet][cribsheet] - Data scientists have hundreds of probability
   distributions from which to choose. Where to start?
-- [Choosing the correct statistical test in SAS, Stata, SPESS, and
+- [Choosing the correct statistical test in SAS, Stata, SPSS, and
   R][chooseTest] - Table giving general guidelines on choosing statistical
   tests.
 
