@@ -135,11 +135,13 @@ I have found useful.
   in side-by-side format.
 - [Learn X in Y Minutes][xiny] - Quick start to many programming languages, data
   structures, and common tools.
+- [How to Report Bugs Effectively][reportbugs]
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
 [polyglot]: http://hyperpolyglot.org/
 [xiny]: https://learnxinyminutes.com/
+[reportbugs]: http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 
 ## Statistical Methods and Machine Learning
 
