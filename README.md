@@ -66,6 +66,9 @@ I have found useful.
 - [Choosing the correct statistical test in SAS, Stata, SPSS, and
   R][chooseTest] - Table giving general guidelines on choosing statistical
   tests.
+- [Warning Signs in Experimental Design and Interpretation][warnexp] - Nine
+  common warning signs in experimental design and nine common warning signs in
+  interpretation of experiments by Peter Norvig.
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -73,6 +76,7 @@ I have found useful.
 [stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
+[warnexp]: http://norvig.com/experiment-design.html
 
 ## Linear Algebra
 
