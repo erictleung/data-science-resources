@@ -173,12 +173,15 @@ I have found useful.
 - [StatQuest: RPKM, FPKM and TPM][statquest]
 - [Why do we use the negative binomial distribution for analysing RNAseq
   data?][negbionom]
+- [QCFail.com][qcfail] - Articles about common next-generation sequencing
+  problems
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
 [rpkm-tpm.r]: https://gist.github.com/johnstantongeddes/6925426
 [statquest]: https://youtu.be/TTUrtCY2k-w
 [negbionom]: http://bridgeslab.sph.umich.edu/posts/why-do-we-use-the-negative-binomial-distribution-for-rnaseq
+[qcfail]: https://sequencing.qcfail.com/
 
 ## Domain Knowledge
 
