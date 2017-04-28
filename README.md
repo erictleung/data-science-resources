@@ -153,6 +153,8 @@ I have found useful.
 - [How to choose a predictive model after k-fold cross-validation?][cvFold]
 - [Parametric versus nonparametric bootstrap resampling][parNonparBootstrap]
 - [Feature engineering using R][featureR]
+- [How to Use t-SNE Effectively][tsne] - Interactive visualization to explore
+  how tSNE behaves in order to use it more effectively.
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -160,6 +162,7 @@ I have found useful.
 [cvFold]: http://stats.stackexchange.com/a/52277/132399
 [parNonparBootstrap]: http://stats.stackexchange.com/a/54855
 [featureR]: https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature-engineering-using-r/
+[tsne]: http://distill.pub/2016/misread-tsne/
 
 ## Computational Biology
 
