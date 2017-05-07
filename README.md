@@ -69,6 +69,9 @@ I have found useful.
 - [Warning Signs in Experimental Design and Interpretation][warnexp] - Nine
   common warning signs in experimental design and nine common warning signs in
   interpretation of experiments by Peter Norvig.
+- [Univariate Distribution Relationships][univardist] - an interactive, flow
+  chart diagram showing the relationships between variate univariate
+  distributions.
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -77,6 +80,7 @@ I have found useful.
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 [warnexp]: http://norvig.com/experiment-design.html
+[univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 
 ## Linear Algebra
 
