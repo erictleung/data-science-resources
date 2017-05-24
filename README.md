@@ -90,10 +90,13 @@ I have found useful.
 - [Essence of Linear Algebra][essence] - Excellent, short overview of linear
   algebra concepts that help develop intuition on the matter.
 - [MIT OCW 18.06SC Linear Algebra][linalgmit] - Taught by Gilbert Strang.
+- [Linear algebra explained in four pages][linbull] - Excerpt from the No
+  Bullshit Guide to Linear Algebra by Ivan Savov.
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [linalgmit]: http://bit.ly/2cvRwMe
+[linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 
 ## Network Science
 
