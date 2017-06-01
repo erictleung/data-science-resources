@@ -187,6 +187,7 @@ I have found useful.
   data?][negbionom]
 - [QCFail.com][qcfail] - Articles about common next-generation sequencing
   problems
+- [Differences between DESeq/edgeR and CuffDiff in RNA-seq][deseq-edger-cuff]
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
@@ -194,6 +195,7 @@ I have found useful.
 [statquest]: https://youtu.be/TTUrtCY2k-w
 [negbionom]: http://bridgeslab.sph.umich.edu/posts/why-do-we-use-the-negative-binomial-distribution-for-rnaseq
 [qcfail]: https://sequencing.qcfail.com/
+[deseq-edger-cuff]: http://seqanswers.com/forums/archive/index.php/t-10797.html
 
 ## Domain Knowledge
 
