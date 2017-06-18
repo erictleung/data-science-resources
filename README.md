@@ -209,12 +209,14 @@ I have found useful.
   cytometry works and how to analyze and interpret its results.
 - [Conditional Knockout Mouse Models][condknock] - Explains basics of
   conditional mouse models and compares to traditional mouse knockouts.
+- [Animal Models of Anxiety: A Beginner's Guide][anxiety-model]
 
 [domain-wiki]: https://en.wikipedia.org/wiki/Domain_knowledge
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
 [khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
 [flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
 [condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
+[anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
 
 
 ## Data Visualization
