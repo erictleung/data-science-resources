@@ -125,11 +125,14 @@ I have found useful.
   used in DNA sequencing.
 - [Rosalind][rosa] - Learn bioinformatics and programming through problem
   solving.
+- [VisuAlgo][visualgo] - Visualizing data structures and algorithms through
+  animation.
 
 [alg-wiki]: https://en.wikipedia.org/wiki/Algorithm
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 [rosa]: http://rosalind.info/
+[visualgo]: https://visualgo.net/en
 
 ## Programming
 
