@@ -147,6 +147,8 @@ I have found useful.
   structures, and common tools.
 - [How to Report Bugs Effectively][reportbugs]
 - [Rosetta Code][rosetta] - Programming chrestomathy site.
+- [Cookbook for R][rcookbook] - Provide solutions to common tasks and problems
+  in analyzing data.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
@@ -154,6 +156,7 @@ I have found useful.
 [xiny]: https://learnxinyminutes.com/
 [reportbugs]: http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 [rosetta]: https://rosettacode.org/wiki/Rosetta_Code
+[rcookbook]: http://www.cookbook-r.com/
 
 ## Statistical Methods and Machine Learning
 
