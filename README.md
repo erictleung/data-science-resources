@@ -18,6 +18,7 @@ I have found useful.
 - [Computational Biology](#computational-biology)
 - [Domain Knowledge](#domain-knowledge)
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
+- [Data Visualization](#data-visualization)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -228,8 +229,10 @@ I have found useful.
 ## Data Visualization
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
+- [How to Create Publication-Quality Figures][qualityfigs]
 
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
+[qualityfigs]: http://b.nanes.org/figures/
 
 ## Should-Read Bioinformatics Papers
 
