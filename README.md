@@ -19,6 +19,7 @@ I have found useful.
 - [Domain Knowledge](#domain-knowledge)
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Data Visualization](#data-visualization)
+- [Software Engineering](#software-engineering)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -252,6 +253,18 @@ I have found useful.
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
 [jtleek]: https://github.com/jtleek/genomicspapers
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
+
+## Software Engineering
+
+> Software engineering is the application of engineering to the development of
+> software in a systematic method. — [Wikipedia][swe-wiki]
+
+- ["The Guide to the Software Engineering Body of Knowledge"][swebook]
+- [Software Engineering - Ian Sommerville][sommerville]
+
+[swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
+[swebook]: https://www.computer.org/web/swebok
+[sommerville]: http://iansommerville.com/software-engineering-book/
 
 ## License
 
