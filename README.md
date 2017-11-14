@@ -154,6 +154,7 @@ I have found useful.
 - [Rosetta Code][rosetta] - Programming chrestomathy site.
 - [Cookbook for R][rcookbook] - Provide solutions to common tasks and problems
   in analyzing data.
+- [OverAPI.com][openapi] - Collecting All Cheat Sheets
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
@@ -162,6 +163,7 @@ I have found useful.
 [reportbugs]: http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
 [rosetta]: https://rosettacode.org/wiki/Rosetta_Code
 [rcookbook]: http://www.cookbook-r.com/
+[openapi]: http://overapi.com/
 
 ## Statistical Methods and Machine Learning
 
