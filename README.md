@@ -17,8 +17,8 @@ I have found useful.
 - [Statistical Methods and Machine Learning](#statistical-methods-and-machine-learning)
 - [Computational Biology](#computational-biology)
 - [Domain Knowledge](#domain-knowledge)
-- [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Data Visualization](#data-visualization)
+- [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Software Engineering](#software-engineering)
 - [License](#license)
 
