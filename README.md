@@ -10,6 +10,7 @@ I have found useful.
 - [Statistics and Probability](#statistics-and-probability)
   - [General Resources](#general-resources)
   - [Specific Topics](#specific-topics)
+  - [Interactive Articles](#interactive-articles)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
 - [Algorithms](#algorithms)
@@ -86,6 +87,12 @@ I have found useful.
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 [warnexp]: http://norvig.com/experiment-design.html
 [univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+
+### Interactive Articles
+
+- [Interpreting Cohen's d effect size][cohensd]
+
+[cohensd]: http://rpsychologist.com/d3/cohend/
 
 ## Linear Algebra
 
