@@ -28,7 +28,9 @@ I have found useful.
 ## Statistics and Probability
 
 > Statistics is the study of the collection, analysis, interpretation,
-> presentation, and organization of data. — [Wikipedia][stats-wiki]
+> presentation, and organization of data.
+>
+> — [Wikipedia][stats-wiki]
 
 ### General Resources
 
@@ -97,7 +99,9 @@ I have found useful.
 ## Linear Algebra
 
 > Linear algebra is the branch of mathematics concerning vector spaces and
-> linear mappings between such spaces. — [Wikipedia][la-wiki]
+> linear mappings between such spaces.
+>
+> — [Wikipedia][la-wiki]
 
 - [Essence of Linear Algebra][essence] - Excellent, short overview of linear
   algebra concepts that help develop intuition on the matter.
@@ -116,7 +120,9 @@ I have found useful.
 > telecommunication networks, computer networks, biological networks, cognitive
 > and semantic networks, and social networks, considering distinct elements or
 > actors represented by *nodes* (or *vertices*) and the connections between the
-> elements or actors as *links* (or *edges*) — [Wikipedia][nets-wiki]
+> elements or actors as *links* (or *edges*).
+>
+> — [Wikipedia][nets-wiki]
 
 - [Network Science Book][netbook] - Online book with visualizations and
   interactive tools about network science by Albert-László Barabási.
@@ -129,7 +135,9 @@ I have found useful.
 ## Algorithms
 
 > In mathematics and computer science, an algorithm is a self-contained
-> step-by-step set of operations to be performed — [Wikipedia][alg-wiki]
+> step-by-step set of operations to be performed.
+>
+> — [Wikipedia][alg-wiki]
 
 - [Bioinformatic Algorithms][bioalg] - Algorithm lectures by Phillip Compeau
   and Pavel Pevzner.
@@ -150,7 +158,9 @@ I have found useful.
 
 > Computer programming (often shortened to programming) is a process that leads
 > from an original formulation of a computing problem to executable computer
-> programs — [Wikipedia][prog-wiki]
+> programs.
+>
+> — [Wikipedia][prog-wiki]
 
 - [DevDocs][devdocs] - API documentation browser.
 - [Hyperpolyglot][polyglot] - Commonly used features in programming languages
@@ -175,8 +185,9 @@ I have found useful.
 ## Statistical Methods and Machine Learning
 
 > Machine learning is the subfield of computer science that "gives computers
-> the ability to learn without being explicitly programmed" —
-> [Wikipedia][ml-wiki]
+> the ability to learn without being explicitly programmed".
+>
+> — [Wikipedia][ml-wiki]
 
 - [Naive Bayes Part 1][nb1] and [Naive Bayes Part 2][nb2]
 - [How to choose a predictive model after k-fold cross-validation?][cvFold]
@@ -198,7 +209,9 @@ I have found useful.
 > Computational biology involves the development and application of
 > data-analytical and theoretical methods, mathematical modeling and
 > computational simulation techniques to the study of biological, behavior, and
-> social systems. — [Wikipedia][compbio-wiki]
+> social systems.
+>
+> — [Wikipedia][compbio-wiki]
 
 - [RPKM measure is inconsistent among samples][rpkm]
 - [RPKM-TPM.r][rpkm-tpm.r] - R script to show RPKM vs TPM
@@ -222,8 +235,9 @@ I have found useful.
 ## Domain Knowledge
 
 > Domain knowledge is valid knowledge used to refer to an area of human
-> endeavour, an autonomous computer activity, or other specialized discipline —
-> [Wikipedia][domain-wiki]
+> endeavour, an autonomous computer activity, or other specialized discipline
+>
+> — [Wikipedia][domain-wiki]
 
 - [Immunology][armando] - Basic immunology by Armando Hasudungan.
 - [Immune System][khan] - Khan Academy Medicine on the immune system.
@@ -247,7 +261,9 @@ I have found useful.
 > modern equivalent of visual communication. It involves the creation and study
 > of the visual representation of data, meaning "information that has been
 > abstracted in some schematic form, including attributes or variables for the
-> units of information". — [Wikipedia][dataviz-wiki]
+> units of information".
+>
+> — [Wikipedia][dataviz-wiki]
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
@@ -273,7 +289,9 @@ I have found useful.
 ## Software Engineering
 
 > Software engineering is the application of engineering to the development of
-> software in a systematic method. — [Wikipedia][swe-wiki]
+> software in a systematic method.
+>
+> — [Wikipedia][swe-wiki]
 
 - ["The Guide to the Software Engineering Body of Knowledge"][swebook]
 - [Software Engineering - Ian Sommerville][sommerville]
