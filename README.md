@@ -243,9 +243,16 @@ I have found useful.
 
 ## Data Visualization
 
+> Data visualization or data visualisation is viewed by many disciplines as a
+> modern equivalent of visual communication. It involves the creation and study
+> of the visual representation of data, meaning "information that has been
+> abstracted in some schematic form, including attributes or variables for the
+> units of information". — [Wikipedia][dataviz-wiki]
+
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
 
+[dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
 
