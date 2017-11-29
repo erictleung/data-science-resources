@@ -50,6 +50,7 @@ I have found useful.
   such as p-values, principle component analysis (PCA), and R-squared.
 - [STAT 505 Applied Multivariate Statistical Analysis][pennstat] - Penn State
   Eberly College of Science course.
+- [StatSoft Electronic Statistics Textbook][statsoft]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
@@ -62,6 +63,7 @@ I have found useful.
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
+[statsoft]: http://www.statsoft.com/Textbook
 
 ### Specific Topics
 
