@@ -108,11 +108,13 @@ I have found useful.
 - [MIT OCW 18.06SC Linear Algebra][linalgmit] - Taught by Gilbert Strang.
 - [Linear algebra explained in four pages][linbull] - Excerpt from the No
   Bullshit Guide to Linear Algebra by Ivan Savov.
+- [S.O.S. Mathematics Matrix Algebra][sosmath]
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [linalgmit]: http://bit.ly/2cvRwMe
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
+[sosmath]: http://www.sosmath.com/matrix/matrix.html
 
 ## Network Science
 
