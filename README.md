@@ -300,11 +300,14 @@ I have found useful.
 - ["The Guide to the Software Engineering Body of Knowledge"][swebook]
 - [Software Engineering - Ian Sommerville][sommerville]
 - [Unix as IDE Series][unixide]
+- [Software Engineering Resources][spiresources] - Aggregation of over 1800
+  software engineering resources on various topics.
 
 [swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
 [sommerville]: http://iansommerville.com/software-engineering-book/
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
+[spiresources]: http://rspa.com/spi/
 
 ## License
 
