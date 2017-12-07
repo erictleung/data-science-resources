@@ -322,7 +322,7 @@ I have found useful.
   of Scienfici Studies][scifigure] (R package)
 - [What should Researchers Expect WHen They Replicate Studies? A Statistical
   View of Replicability in Psychological Science][reproexpect]
-- [A Guide to Reproducible Code in Ecology and Evolution][ecoguide]
+- [A Guide to Reproducible Code in Ecology and Evolution][ecoguide] (PDF)
 
 [repro-wiki]: https://en.wikipedia.org/wiki/Reproducibility
 [reprodef]: https://doi.org/10.1101/066803
