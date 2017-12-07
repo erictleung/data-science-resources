@@ -21,6 +21,7 @@ I have found useful.
 - [Data Visualization](#data-visualization)
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Software Engineering](#software-engineering)
+- [Reproducible Science](#reproducible-science)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -308,6 +309,24 @@ I have found useful.
 [sommerville]: http://iansommerville.com/software-engineering-book/
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 [spiresources]: http://rspa.com/spi/
+
+## Reproducible Science
+
+> Reproducibility is the ability to get the same research results using the
+> raw data and computer programs provided by the researchers.
+>
+> — [Wikipedia][repro-wiki]
+
+- [A statistical definition for reproducibility and replicability][reprodef]
+- [`scifigure`: Visualize Reproducibility and Replicability in a Comparison
+  of Scienfici Studies][scifigure] (R package)
+- [What should Researchers Expect WHen They Replicate Studies? A Statistical
+  View of Replicabiility in Psychological Science][reproexpect]
+
+[repro-wiki]: https://en.wikipedia.org/wiki/Reproducibility
+[reprodef]: https://doi.org/10.1101/066803
+[scifigure]: https://cran.r-project.org/package=scifigure
+[reproexpect]: https://doi.org/10.1177/1745691616646366
 
 ## License
 
