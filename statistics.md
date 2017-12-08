@@ -81,6 +81,8 @@ Example:
 [1] 1.644854
 > rnorm(2)
 [1] -1.2137979 -0.8883634
+> library(MCMCpack)
+> rdirichlet(n = 25, alpha = c(1, 2, 3))
 ```
 
 # One-sample *t* test
