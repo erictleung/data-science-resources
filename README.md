@@ -83,6 +83,7 @@ I have found useful.
 - [Univariate Distribution Relationships][univardist] - an interactive, flow
   chart diagram showing the relationships between variate univariate
   distributions.
+- [First Internet Gallery of Statistics Jokes][ramseyerjokes]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -92,6 +93,7 @@ I have found useful.
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 [warnexp]: http://norvig.com/experiment-design.html
 [univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+[ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
 
 ### Interactive Articles
 
