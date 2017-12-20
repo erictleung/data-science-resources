@@ -99,9 +99,9 @@ t.test(rnorm(10, mean = 0, sd = 1), mu = 0) # Compare mean to zero
 
 # Similar to the one-sample t test is the Wilcoxon signed-rank test. However,
 # the Wilcoxon test is a non-parametric test. The test checks if the
-# distribution of the data is symmetric around some median value.
+# distribution of the data is symmetric around some theoretical mean value.
 
-# Test will subtract given median from all values in sample and rank them based
+# Test will subtract given mean from all values in sample and rank them based
 # on the positive and negative values. This can show a symmetric distribution.
 wilcox.test(rnorm(10, mean = 0, sd = 1), mu = 5)
 #
