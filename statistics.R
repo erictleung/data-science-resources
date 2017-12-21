@@ -5,9 +5,7 @@
 #   - Vocabulary
 #   - Example - Flipping two coins
 #   - Distributions
-#   - One-sample *t* test
-#   - Non-parametrics
-#   - Two-sample tests
+#   - One- and two-sample tests
 
 # Vocabulary -----------------------------------------------------------
 
@@ -77,78 +75,46 @@ rbinom(n - 5, 5, 0.5) # n rand nums for flipping 5 times with 0.5 probability
 library(MCMCpack)
 rdirichlet(n = 25, alpha = c(1, 2, 3))
 
-# One sample t-tests ---------------------------------------------------
+# One-sample tests -----------------------------------------------------
 
 # Assume normal distribution.
 #   **Null hypothesis**: sample data has same mean as distribution
 #   **Alt hypothesis**: sample data has different mean than distribution
 t.test(rnorm(10, mean = 0, sd = 1), mu = 0) # Compare mean to zero
-#
-#        One Sample t-test
-#
-# data:  rnorm(10, mean = 0, sd = 1)
-# t = -0.51016, df = 9, p-value = 0.6222
-# alternative hypothesis: true mean is not equal to 0
-# 95 percent confidence interval:
-#  -0.8867880  0.5604176
-# sample estimates:
-#  mean of x
-# -0.1631852
 
-# Non-parametrics ------------------------------------------------------
-
-# Similar to the one-sample t test is the Wilcoxon signed-rank test. However,
-# the Wilcoxon test is a non-parametric test. The test checks if the
-# distribution of the data is symmetric around some theoretical mean value.
-
+# Similar to one-sample t test is Wilcoxon signed-rank test. The test checks if
+# the distribution of the data is symmetric around some theoretical mean value.
 # Test will subtract given mean from all values in sample and rank them based
 # on the positive and negative values. This can show a symmetric distribution.
 wilcox.test(rnorm(10, mean = 0, sd = 1), mu = 5)
-#
-#         Wilcoxon signed rank test
-#
-# data:  rnorm(10, mean = 0, sd = 1)
-# V = 0, p-value = 0.001953
-# alternative hypothesis: true location is not equal to 5
-#
-# Warning: Wilcoxon signed-rank test is susceptible to ties.
 
 # Two-sample tests -----------------------------------------------------
 
-# Similar to the t-test, a two sample t-test will test the differences between
-# two datasets.
-summary(discoveries)
-#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
-#     0.0     2.0     3.0     3.1     4.0    12.0
-summary(eurodist)
-#    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
-#     158     808    1312    1505    2064    4532
-t.test(discoveries, eurodist)
-#
-#         Welch Two Sample t-test
-#
-# data:  discoveries and eurodist
-# t = -24.218, df = 209.01, p-value < 2.2e-16
-# alternative hypothesis: true difference in means is not equal to 0
-# 95 percent confidence interval:
-#  -1624.317 -1379.778
-# sample estimates:
-# mean of x mean of y
-#     3.100  1505.148
+# Two sample t-test will test the differences between, assume diff variances
+t.test(rnorm(100, 0, 1), rnorm(100, 0.5, 1))
 
-# The above is assuming each dataset has different variances.
+# Specify same variances and to perform a "normal" t-test
+t.test(rnorm(100, 0, 1), rnorm(100, 0.5, 1), var.equal = TRUE)
 
-# To assume the same variances and to perform a "normal" t-test, you need to
-# specify this.
-t.test(discoveries, eurodist, var.equal = TRUE)
-#
-#         Two Sample t-test
-#
-# data:  discoveries and eurodist
-# t = -16.698, df = 308, p-value < 2.2e-16
-# alternative hypothesis: true difference in means is not equal to 0
-# 95 percent confidence interval:
-#  -1679.052 -1325.044
-# sample estimates:
-# mean of x mean of y
-#     3.100  1505.148
+# Two-sample Wilcoxon test for non-parametric version of t-test
+wilcox.test(rnorm(100, 0, 1), rnorm(100, 0.5, 1))
+
+# Paired t test when you measurements on same experimental unit
+with(data.frame(
+        pre = rnorm(15, 0, 1),
+        post = rnorm(15, 0.2, 1)),
+    t.test(pre, post, paired = TRUE)
+)
+# Gained power if you know data is paired
+
+# Matched-paired Wilcoxon test for non-parametric version of paired t-test
+with(data.frame(
+        pre = rnorm(15, 0, 1),
+        post = rnorm(15, 0.2, 1)),
+     wilcox.test(pre, post, paired = TRUE)
+)
+
+# Compare variances ----------------------------------------------------
+
+# Compare variances of MPG between manual and automatic cars
+var.test(mtcars$mpg ~ mtcars$am)
