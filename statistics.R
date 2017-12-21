@@ -39,9 +39,9 @@
 # Distributions --------------------------------------------------------
 
 # Distribution functions in R:
-#   - probability distribution functions (`p`)
+#   - probability distribution functions (`p`) - cumulative distr P(X <= x)
 #   - density functions (`d`)
-#   - quantile functions (`q`)
+#   - quantile functions (`q`) - p-quantile P(X <= x) = p
 #   - random number generator (`r`)
 
 # Common distribution types:
@@ -51,13 +51,13 @@ pnorm(q = 0)    # Probability distribution function
 # [1] 0.5
 pnorm(q = 0.5)  # q is the z-score in Normal distribution
 # [1] 0.6914625
-dnorm(0)        # Density function, given z-score
+dnorm(x = 0)    # Density function, given z-score
 # [1] 0.3969525
-qnorm(0.5)      # Quantile function to give z-score from quantile
+qnorm(p = 0.5)  # Quantile function to give z-score from quantile
 # [1] 0
 qnorm(0.975)    # A common quantile you'll need z-score for
 # [1] 1.959964
-rnorm(2)        # Return n number of random numbers from distribution
+rnorm(n = 2)    # Return n number of random numbers from distribution
 # [1] -1.2137979 -0.8883634
 rnorm(5)        # Example for 5 numbers
 # [1] -0.7124012  0.6193859  0.5909824 -1.8960678  1.9938475
