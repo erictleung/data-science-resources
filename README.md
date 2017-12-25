@@ -1,7 +1,7 @@
 # review [![Build Status](https://travis-ci.org/erictleung/review.svg?branch=master)](https://travis-ci.org/erictleung/review)
 
-Review and resource materials for bioinformatics and computational biology that
-I have found useful.
+Review and resource materials from around the internet for bioinformatics and
+computational biology that I've found useful.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -41,7 +41,7 @@ I have found useful.
   and engineering incorporate statistical methods.
 - [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
   SPSS, and Stata.
-- [My statistics notes][mystats] and [scripts][mystatscript]
+- [My statistics notes][mystatscript]
 - [Quick-R][quickr] - Quick reference to statistical methods using R.
 - [Stat Trek][stattrek] - Teach yourself statistics.
 - [Online Statistics Education][onlinestats] - Developed by Rice University,
@@ -56,8 +56,7 @@ I have found useful.
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
 [idre]: http://www.ats.ucla.edu/stat/
-[mystats]: ./statistics.md
-[mystatscript]: ./sample.R
+[mystatscript]: ./statistics.R
 [quickr]: http://www.statmethods.net/
 [stattrek]: http://stattrek.com/
 [onlinestats]: http://onlinestatbook.com/2/index.html
