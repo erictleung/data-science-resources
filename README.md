@@ -276,10 +276,13 @@ computational biology that I've found useful.
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
+- [Scientific Illustrations 101][scifigs] (PDF) - tips on various topics for
+  preparing scientific illustrations/figures using various tools.
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
+[scifigs]: http://www.virology.wisc.edu/acp/tutorials/SciIllustration.pdf
 
 ## Should-Read Bioinformatics Papers
 
