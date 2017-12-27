@@ -18,7 +18,7 @@ computational biology that I've found useful.
 - [Statistical Methods and Machine Learning](#statistical-methods-and-machine-learning)
 - [Computational Biology](#computational-biology)
 - [Domain Knowledge](#domain-knowledge)
-- [Data Visualization](#data-visualization)
+- [Data Visualization and Making Figures](#data-visualization-and-making-figures)
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Software Engineering](#software-engineering)
 - [Reproducible Science](#reproducible-science)
@@ -264,7 +264,7 @@ computational biology that I've found useful.
 [anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
 
 
-## Data Visualization
+## Data Visualization and Making Figures
 
 > Data visualization or data visualisation is viewed by many disciplines as a
 > modern equivalent of visual communication. It involves the creation and study
