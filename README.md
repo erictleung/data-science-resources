@@ -278,11 +278,15 @@ computational biology that I've found useful.
 - [How to Create Publication-Quality Figures][qualityfigs]
 - [Scientific Illustrations 101][scifigs] (PDF) - tips on various topics for
   preparing scientific illustrations/figures using various tools.
+- [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
+- [UW Madison Media Lab] - tutorials for images and figures
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
 [scifigs]: http://www.virology.wisc.edu/acp/tutorials/SciIllustration.pdf
+[bitesizeillustrator]: https://bitesizebio.com/8113/make-better-figures-faster-using-illustrator/
+[uwmedialab]: https://biochem.wisc.edu/medialab/tutorials-media-lab
 
 ## Should-Read Bioinformatics Papers
 
