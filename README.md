@@ -153,12 +153,14 @@ computational biology that I've found useful.
   solving.
 - [VisuAlgo][visualgo] - Visualizing data structures and algorithms through
   animation.
+- [Discrete Mathematics: An Open Introduction][discrete]
 
 [alg-wiki]: https://en.wikipedia.org/wiki/Algorithm
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 [rosa]: http://rosalind.info/
 [visualgo]: https://visualgo.net/en
+[discrete]: http://discretetext.oscarlevin.com/dmoi/dmoi.html
 
 ## Programming
 
