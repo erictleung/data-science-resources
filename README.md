@@ -280,6 +280,7 @@ computational biology that I've found useful.
   preparing scientific illustrations/figures using various tools.
 - [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
 - [UW Madison Media Lab][uwmedialab] - tutorials for images and figures
+- [A Tour Through the Visualization Zoo][vizzoo]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -287,6 +288,7 @@ computational biology that I've found useful.
 [scifigs]: http://www.virology.wisc.edu/acp/tutorials/SciIllustration.pdf
 [bitesizeillustrator]: https://bitesizebio.com/8113/make-better-figures-faster-using-illustrator/
 [uwmedialab]: https://biochem.wisc.edu/medialab/tutorials-media-lab
+[vizzoo]: https://homes.cs.washington.edu/~jheer/files/zoo/
 
 ## Should-Read Bioinformatics Papers
 
