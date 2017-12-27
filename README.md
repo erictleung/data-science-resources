@@ -13,7 +13,7 @@ computational biology that I've found useful.
   - [Interactive Articles](#interactive-articles)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
-- [Algorithms](#algorithms)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Programming](#programming)
 - [Statistical Methods and Machine Learning](#statistical-methods-and-machine-learning)
 - [Computational Biology](#computational-biology)
@@ -138,12 +138,18 @@ computational biology that I've found useful.
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 
-## Algorithms
+## Algorithms and Data Structures
 
 > In mathematics and computer science, an algorithm is a self-contained
 > step-by-step set of operations to be performed.
 >
 > — [Wikipedia][alg-wiki]
+>
+> In computer science, a data structure is a particular way of organizing
+> and storing data in a computer so that it can be accessed and modified
+> efficiently.
+>
+> — [Wikipedia][struc-wiki]
 
 - [Bioinformatic Algorithms][bioalg] - Algorithm lectures by Phillip Compeau
   and Pavel Pevzner.
@@ -156,6 +162,7 @@ computational biology that I've found useful.
 - [Discrete Mathematics: An Open Introduction][discrete]
 
 [alg-wiki]: https://en.wikipedia.org/wiki/Algorithm
+[struc-wiki]: https://en.wikipedia.org/wiki/Data_structure
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 [rosa]: http://rosalind.info/
