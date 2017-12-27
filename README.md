@@ -279,7 +279,7 @@ computational biology that I've found useful.
 - [Scientific Illustrations 101][scifigs] (PDF) - tips on various topics for
   preparing scientific illustrations/figures using various tools.
 - [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
-- [UW Madison Media Lab] - tutorials for images and figures
+- [UW Madison Media Lab][uwmedialab] - tutorials for images and figures
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
