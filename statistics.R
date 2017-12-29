@@ -70,6 +70,7 @@ rbinom(n - 5, 5, 0.5) # n rand nums for flipping 5 times with 0.5 probability
 
 # Poisson (`pois`)
 # Uniform (`unif`)
+# Student (`t`) e.g. dt()
 
 # Dirichlet distribution
 library(MCMCpack)
