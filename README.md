@@ -293,6 +293,7 @@ computational biology that I've found useful.
 - [UW Madison Media Lab][uwmedialab] - tutorials for images and figures
 - [A Tour Through the Visualization Zoo][vizzoo]
 - [Adobe Illustrator for Scientists][ytillustrate] (YouTube playlist)
+- [WebGraphviz is Graphviz in the Browser][webgraphviz]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -302,6 +303,7 @@ computational biology that I've found useful.
 [uwmedialab]: https://biochem.wisc.edu/medialab/tutorials-media-lab
 [vizzoo]: https://homes.cs.washington.edu/~jheer/files/zoo/
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
+[webgraphviz]: http://www.webgraphviz.com/
 
 ## Should-Read Bioinformatics Papers
 
