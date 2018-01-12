@@ -186,8 +186,9 @@ computational biology that I've found useful.
 - [Rosetta Code][rosetta] - Programming chrestomathy site.
 - [Cookbook for R][rcookbook] - Provide solutions to common tasks and problems
   in analyzing data.
-- [OverAPI.com][openapi] - Collecting All Cheat Sheets
-- [The Art of Comments][csscomment] - Essay on how to comment well
+- [OverAPI.com][openapi] - Collecting All Cheat Sheets..
+- [The Art of Comments][csscomment] - Essay on how to comment well.
+- [devhints.io][devhints] - modest collection of cheatsheets.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: http://devdocs.io/
@@ -198,6 +199,7 @@ computational biology that I've found useful.
 [rcookbook]: http://www.cookbook-r.com/
 [openapi]: http://overapi.com/
 [csscomment]: https://css-tricks.com/the-art-of-comments/
+[devhints]: https://devhints.io/
 
 ## Statistical Methods and Machine Learning
 
