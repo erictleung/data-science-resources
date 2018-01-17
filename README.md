@@ -314,13 +314,15 @@ computational biology that I've found useful.
 ## Should-Read Bioinformatics Papers
 
 > Computational biology and bioinformatics papers to cover the breadth of the
-> field
+> field.
 
+- [How to read a research paper][vsf] - one question to ask when reading papers.
 - [Zhang Lab Recommendations][zhang]
 - [The Leek group guide to genomics papers][jtleek]
 - ["Foundations of Computational and Systems Biology" Readings][mitocw] - MIT
   OCW course readings.
 
+[vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
 [jtleek]: https://github.com/jtleek/genomicspapers
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
