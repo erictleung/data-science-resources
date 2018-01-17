@@ -214,6 +214,8 @@ computational biology that I've found useful.
 - [Feature engineering using R][featureR]
 - [How to Use t-SNE Effectively][tsne] - Interactive visualization to explore
   how tSNE behaves in order to use it more effectively.
+- [Accurately Measuring Model Prediction Error][modelerr]
+- [Understanding the Bias-Variance Tradeoff][biasvariance]
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -222,6 +224,8 @@ computational biology that I've found useful.
 [parNonparBootstrap]: http://stats.stackexchange.com/a/54855
 [featureR]: https://blogs.msdn.microsoft.com/microsoftrservertigerteam/2017/03/23/feature-engineering-using-r/
 [tsne]: http://distill.pub/2016/misread-tsne/
+[modelerr]: http://scott.fortmann-roe.com/docs/MeasuringError.html
+[biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
 
 ## Computational Biology
 
