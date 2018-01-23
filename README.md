@@ -52,6 +52,9 @@ computational biology that I've found useful.
 - [STAT 505 Applied Multivariate Statistical Analysis][pennstat] - Penn State
   Eberly College of Science course.
 - [StatSoft Electronic Statistics Textbook][statsoft]
+- [UW Summer Institutes Archive Material][uwbiostat] - Various learning
+  material in statistics, data analysis, machine learning, genetics, and
+  clinical research.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
@@ -64,6 +67,7 @@ computational biology that I've found useful.
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
 [statsoft]: http://www.statsoft.com/Textbook
+[uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 
 ### Specific Topics
 
