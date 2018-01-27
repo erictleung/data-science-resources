@@ -325,11 +325,13 @@ computational biology that I've found useful.
 - [The Leek group guide to genomics papers][jtleek]
 - ["Foundations of Computational and Systems Biology" Readings][mitocw] - MIT
   OCW course readings.
+- [Question: What Are The Classic Papers In Bioinformatics?][biostarq]
 
 [vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
 [jtleek]: https://github.com/jtleek/genomicspapers
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
+[biostarq]: https://www.biostars.org/p/3204/
 
 ## Software Engineering
 
