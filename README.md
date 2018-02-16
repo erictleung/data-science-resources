@@ -55,6 +55,7 @@ computational biology that I've found useful.
 - [UW Summer Institutes Archive Material][uwbiostat] - Various learning
   material in statistics, data analysis, machine learning, genetics, and
   clinical research.
+- [Practical Data Science for Stats][peerjstats]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
@@ -68,6 +69,7 @@ computational biology that I've found useful.
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
 [statsoft]: http://www.statsoft.com/Textbook
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
+[peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 
 ### Specific Topics
 
