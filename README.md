@@ -35,8 +35,8 @@ computational biology that I've found useful.
 
 ### General Resources
 
-- [Handbook of Biological Statistics][hb-stats] - Online set of notes from
-  "Biological Data Analysis" course from University of Delaware.
+- [Handbook of Biological Statistics][hb-stats] and [R Supplement][hb-r] - Online
+  set of notes from "Biological Data Analysis" course from University of Delaware.
 - [Engineering Statistics Handbook][niststats] - Handbook to help scientists
   and engineering incorporate statistical methods.
 - [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
@@ -58,6 +58,7 @@ computational biology that I've found useful.
 - [Practical Data Science for Stats][peerjstats]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
+[hb-r]: http://rcompanion.org/rcompanion/index.html
 [niststats]: http://itl.nist.gov/div898/handbook/index.htm
 [idre]: http://www.ats.ucla.edu/stat/
 [mystatscript]: ./statistics.R
