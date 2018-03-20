@@ -223,6 +223,7 @@ computational biology that I've found useful.
   how tSNE behaves in order to use it more effectively.
 - [Accurately Measuring Model Prediction Error][modelerr]
 - [Understanding the Bias-Variance Tradeoff][biasvariance]
+- [Support Vector Machines (SVMs)][svms]
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -233,6 +234,7 @@ computational biology that I've found useful.
 [tsne]: http://distill.pub/2016/misread-tsne/
 [modelerr]: http://scott.fortmann-roe.com/docs/MeasuringError.html
 [biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
+[svms]: http://svms.org/
 
 ## Computational Biology
 
