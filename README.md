@@ -59,7 +59,7 @@ computational biology that I've found useful.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
-[niststats]: http://itl.nist.gov/div898/handbook/index.htm
+[niststats]: https://itl.nist.gov/div898/handbook/index.htm
 [idre]: http://www.ats.ucla.edu/stat/
 [mystatscript]: ./statistics.R
 [quickr]: http://www.statmethods.net/
@@ -224,6 +224,7 @@ computational biology that I've found useful.
 - [Accurately Measuring Model Prediction Error][modelerr]
 - [Understanding the Bias-Variance Tradeoff][biasvariance]
 - [Support Vector Machines (SVMs)][svms]
+- [Random Forests][rfs]
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -235,6 +236,7 @@ computational biology that I've found useful.
 [modelerr]: http://scott.fortmann-roe.com/docs/MeasuringError.html
 [biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
 [svms]: http://svms.org/
+[rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 
 ## Computational Biology
 
