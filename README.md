@@ -372,12 +372,14 @@ computational biology that I've found useful.
 - [What should Researchers Expect WHen They Replicate Studies? A Statistical
   View of Replicability in Psychological Science][reproexpect]
 - [A Guide to Reproducible Code in Ecology and Evolution][ecoguide] (PDF)
+- [Docker for Beginners][dockerbegin] - By Prakhar Srivastav.
 
 [repro-wiki]: https://en.wikipedia.org/wiki/Reproducibility
 [reprodef]: https://doi.org/10.1101/066803
 [scifigure]: https://cran.r-project.org/package=scifigure
 [reproexpect]: https://doi.org/10.1177/1745691616646366
 [ecoguide]: http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
+[dockerbegin]: https://docker-curriculum.com/
 
 ## License
 
