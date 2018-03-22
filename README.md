@@ -72,6 +72,7 @@ computational biology that I've found useful.
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 
+
 ### Specific Topics
 
 - [P-values, False Discovery Rate (FDR) and q-values][pq-values]
@@ -101,11 +102,13 @@ computational biology that I've found useful.
 [univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 [ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
 
+
 ### Interactive Articles
 
 - [Interpreting Cohen's d effect size][cohensd]
 
 [cohensd]: http://rpsychologist.com/d3/cohend/
+
 
 ## Linear Algebra
 
@@ -127,6 +130,7 @@ computational biology that I've found useful.
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 [sosmath]: http://www.sosmath.com/matrix/matrix.html
 
+
 ## Network Science
 
 > Network science is an academic field which studies complex networks such as
@@ -144,6 +148,7 @@ computational biology that I've found useful.
 [nets-wiki]: https://en.wikipedia.org/wiki/Network_science
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
+
 
 ## Algorithms and Data Structures
 
@@ -175,6 +180,7 @@ computational biology that I've found useful.
 [rosa]: http://rosalind.info/
 [visualgo]: https://visualgo.net/en
 [discrete]: http://discretetext.oscarlevin.com/dmoi/dmoi.html
+
 
 ## Programming
 
@@ -208,6 +214,7 @@ computational biology that I've found useful.
 [csscomment]: https://css-tricks.com/the-art-of-comments/
 [devhints]: https://devhints.io/
 
+
 ## Statistical Methods and Machine Learning
 
 > Machine learning is the subfield of computer science that "gives computers
@@ -237,6 +244,7 @@ computational biology that I've found useful.
 [biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
 [svms]: http://svms.org/
 [rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+
 
 ## Computational Biology
 
@@ -269,6 +277,7 @@ computational biology that I've found useful.
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
 
+
 ## Domain Knowledge
 
 > Domain knowledge is valid knowledge used to refer to an area of human
@@ -283,6 +292,8 @@ computational biology that I've found useful.
 - [Conditional Knockout Mouse Models][condknock] - Explains basics of
   conditional mouse models and compares to traditional mouse knockouts.
 - [Animal Models of Anxiety: A Beginner's Guide][anxiety-model]
+- [The Microbiome Podcast][micropods] - By the American Microbiome Institute
+  (AMI)
 
 [domain-wiki]: https://en.wikipedia.org/wiki/Domain_knowledge
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
@@ -290,6 +301,7 @@ computational biology that I've found useful.
 [flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
 [condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
 [anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
+[micropods]: http://www.microbiomeinstitute.org/podcast/
 
 
 ## Data Visualization and Making Figures
@@ -322,6 +334,7 @@ computational biology that I've found useful.
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
 [webgraphviz]: http://www.webgraphviz.com/
 
+
 ## Should-Read Bioinformatics Papers
 
 > Computational biology and bioinformatics papers to cover the breadth of the
@@ -339,6 +352,7 @@ computational biology that I've found useful.
 [jtleek]: https://github.com/jtleek/genomicspapers
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
 [biostarq]: https://www.biostars.org/p/3204/
+
 
 ## Software Engineering
 
@@ -358,6 +372,7 @@ computational biology that I've found useful.
 [sommerville]: http://iansommerville.com/software-engineering-book/
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 [spiresources]: http://rspa.com/spi/
+
 
 ## Reproducible Science
 
@@ -380,6 +395,7 @@ computational biology that I've found useful.
 [reproexpect]: https://doi.org/10.1177/1745691616646366
 [ecoguide]: http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
 [dockerbegin]: https://docker-curriculum.com/
+
 
 ## License
 
