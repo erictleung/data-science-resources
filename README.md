@@ -204,7 +204,7 @@ computational biology that I've found useful.
 - [devhints.io][devhints] - modest collection of cheatsheets.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
-[devdocs]: http://devdocs.io/
+[devdocs]: https://devdocs.io/
 [polyglot]: http://hyperpolyglot.org/
 [xiny]: https://learnxinyminutes.com/
 [reportbugs]: http://www.chiark.greenend.org.uk/~sgtatham/bugs.html
