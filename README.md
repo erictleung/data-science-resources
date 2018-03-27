@@ -323,6 +323,8 @@ computational biology that I've found useful.
 - [A Tour Through the Visualization Zoo][vizzoo]
 - [Adobe Illustrator for Scientists][ytillustrate] (YouTube playlist)
 - [WebGraphviz is Graphviz in the Browser][webgraphviz]
+- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance
+  and Identical Statistics through Simulated Annealing][samestats]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -333,6 +335,7 @@ computational biology that I've found useful.
 [vizzoo]: https://homes.cs.washington.edu/~jheer/files/zoo/
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
 [webgraphviz]: http://www.webgraphviz.com/
+[samestats]: https://www.autodeskresearch.com/publications/samestats
 
 
 ## Should-Read Bioinformatics Papers
