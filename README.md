@@ -202,6 +202,7 @@ computational biology that I've found useful.
 - [OverAPI.com][openapi] - Collecting All Cheat Sheets..
 - [The Art of Comments][csscomment] - Essay on how to comment well.
 - [devhints.io][devhints] - modest collection of cheatsheets.
+- [Teach Yourself Programming in Ten Years][norvigprog]
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -213,6 +214,7 @@ computational biology that I've found useful.
 [openapi]: http://overapi.com/
 [csscomment]: https://css-tricks.com/the-art-of-comments/
 [devhints]: https://devhints.io/
+[norvigprog]: http://norvig.com/21-days.html
 
 
 ## Statistical Methods and Machine Learning
