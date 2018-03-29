@@ -55,7 +55,10 @@ computational biology that I've found useful.
 - [UW Summer Institutes Archive Material][uwbiostat] - Various learning
   material in statistics, data analysis, machine learning, genetics, and
   clinical research.
-- [Practical Data Science for Stats][peerjstats]
+- [Practical Data Science for Stats][peerjstats] - Collection of curate articles
+  on practical data science.
+- [Statistics for Biologists][naturestats] - Nature collection of articles
+  on statistical analysis.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -71,6 +74,7 @@ computational biology that I've found useful.
 [statsoft]: http://www.statsoft.com/Textbook
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
+[naturestats]: https://www.nature.com/collections/qghhqm
 
 
 ### Specific Topics
@@ -91,6 +95,8 @@ computational biology that I've found useful.
   chart diagram showing the relationships between variate univariate
   distributions.
 - [First Internet Gallery of Statistics Jokes][ramseyerjokes]
+- [PLoS's Ten Simple Rules for Effective Statistical Practice][ploseffective]
+- [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -101,6 +107,8 @@ computational biology that I've found useful.
 [warnexp]: http://norvig.com/experiment-design.html
 [univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 [ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
+[ploseffective]: https://doi.org/10.1371/journal.pcbi.1004961
+[commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
 
 
 ### Interactive Articles
