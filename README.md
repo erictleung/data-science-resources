@@ -380,6 +380,8 @@ computational biology that I've found useful.
 - [Software Engineering Resources][spiresources] - Aggregation of over 1800
   software engineering resources on various topics.
 - [Flowchart Symbols Explained][smartdraw]
+- [Write the Docs][writethedocs] - A global community of people who care
+  about documentation.
 
 [swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
@@ -387,6 +389,7 @@ computational biology that I've found useful.
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 [spiresources]: http://rspa.com/spi/
 [smartdraw]: https://www.smartdraw.com/flowchart/flowchart-symbols.htm
+[writethedocs]: http://www.writethedocs.org/
 
 
 ## Reproducible Science
