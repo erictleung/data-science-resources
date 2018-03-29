@@ -371,12 +371,14 @@ computational biology that I've found useful.
 - [Unix as IDE Series][unixide]
 - [Software Engineering Resources][spiresources] - Aggregation of over 1800
   software engineering resources on various topics.
+- [Flowchart Symbols Explained][smartdraw]
 
 [swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
 [sommerville]: http://iansommerville.com/software-engineering-book/
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
 [spiresources]: http://rspa.com/spi/
+[smartdraw]: https://www.smartdraw.com/flowchart/flowchart-symbols.htm
 
 
 ## Reproducible Science
