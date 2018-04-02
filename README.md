@@ -55,7 +55,7 @@ computational biology that I've found useful.
 - [UW Summer Institutes Archive Material][uwbiostat] - Various learning
   material in statistics, data analysis, machine learning, genetics, and
   clinical research.
-- [Practical Data Science for Stats][peerjstats] - Collection of curate articles
+- [Practical Data Science for Stats][peerjstats] - Collection of curated articles
   on practical data science.
 - [Statistics for Biologists][naturestats] - Nature collection of articles
   on statistical analysis.
