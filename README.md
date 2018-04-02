@@ -276,6 +276,8 @@ computational biology that I've found useful.
 - [HarvardX Biomedical Data Science Open Online Training][harvardxbd2k]
 - [Question: Can someone please explain in simple terms how DESeq2
   works?][biostardeseq2]
+- [RNA-seqlopedia][rnauo] - Overview of RNA-seq and choices for a successful
+  experiment.
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
@@ -286,6 +288,7 @@ computational biology that I've found useful.
 [deseq-edger-cuff]: http://seqanswers.com/forums/archive/index.php/t-10797.html
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
+[rnauo]: https://rnaseq.uoregon.edu/
 
 
 ## Domain Knowledge
