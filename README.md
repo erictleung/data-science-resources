@@ -241,7 +241,8 @@ computational biology that I've found useful.
 - [Accurately Measuring Model Prediction Error][modelerr]
 - [Understanding the Bias-Variance Tradeoff][biasvariance]
 - [Support Vector Machines (SVMs)][svms]
-- [Random Forests][rfs]
+- [Random Forests][rfs] - Creator Leo Breiman's site on random forests.
+- [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs. 
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -254,6 +255,7 @@ computational biology that I've found useful.
 [biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
 [svms]: http://svms.org/
 [rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+[googleml]: https://developers.google.com/machine-learning/crash-course/
 
 
 ## Computational Biology
