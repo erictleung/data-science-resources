@@ -131,12 +131,14 @@ computational biology that I've found useful.
 - [Linear algebra explained in four pages][linbull] - Excerpt from the No
   Bullshit Guide to Linear Algebra by Ivan Savov.
 - [S.O.S. Mathematics Matrix Algebra][sosmath]
+- [PCA, Eigenvectors, and Eigenvalues (Cross Validated)][eigenstats]
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [linalgmit]: http://bit.ly/2cvRwMe
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 [sosmath]: http://www.sosmath.com/matrix/matrix.html
+[eigenstats]: https://stats.stackexchange.com/a/140579/
 
 
 ## Network Science
