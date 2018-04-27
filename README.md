@@ -58,7 +58,9 @@ computational biology that I've found useful.
 - [Practical Data Science for Stats][peerjstats] - Collection of curated articles
   on practical data science.
 - [Statistics for Biologists][naturestats] - Nature collection of articles
-  on statistical analysis.
+  on statistical analysis.'
+- [Top Upvoted Questions on CrossValidated][topcrossvotes] - Great questions with
+  great answers about topics in statistics and machine learning.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -75,6 +77,7 @@ computational biology that I've found useful.
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [naturestats]: https://www.nature.com/collections/qghhqm
+[topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 
 
 ### Specific Topics
