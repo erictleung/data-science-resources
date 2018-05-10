@@ -94,7 +94,7 @@ computational biology that I've found useful.
 - [Warning Signs in Experimental Design and Interpretation][warnexp] - Nine
   common warning signs in experimental design and nine common warning signs in
   interpretation of experiments by Peter Norvig.
-- [Univariate Distribution Relationships][univardist] - an interactive, flow
+- [Univariate Distribution Relationships][univardist] - An interactive, flow
   chart diagram showing the relationships between variate univariate
   distributions.
 - [First Internet Gallery of Statistics Jokes][ramseyerjokes]
@@ -214,8 +214,9 @@ computational biology that I've found useful.
   in analyzing data.
 - [OverAPI.com][openapi] - Collecting All Cheat Sheets..
 - [The Art of Comments][csscomment] - Essay on how to comment well.
-- [devhints.io][devhints] - modest collection of cheatsheets.
+- [devhints.io][devhints] - Modest collection of cheatsheets.
 - [Teach Yourself Programming in Ten Years][norvigprog]
+- [Code Complete Book Review][codecomplete] - Detailed review and notes of book.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -228,6 +229,7 @@ computational biology that I've found useful.
 [csscomment]: https://css-tricks.com/the-art-of-comments/
 [devhints]: https://devhints.io/
 [norvigprog]: http://norvig.com/21-days.html
+[codecomplete]: http://codecourse.sourceforge.net/materials/Code-Complete-A-Detailed-Book-Review.html
 
 
 ## Statistical Methods and Machine Learning
@@ -336,10 +338,10 @@ computational biology that I've found useful.
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
-- [Scientific Illustrations 101][scifigs] (PDF) - tips on various topics for
+- [Scientific Illustrations 101][scifigs] (PDF) - Tips on various topics for
   preparing scientific illustrations/figures using various tools.
 - [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
-- [UW Madison Media Lab][uwmedialab] - tutorials for images and figures
+- [UW Madison Media Lab][uwmedialab] - Tutorials for images and figures
 - [A Tour Through the Visualization Zoo][vizzoo]
 - [Adobe Illustrator for Scientists][ytillustrate] (YouTube playlist)
 - [WebGraphviz is Graphviz in the Browser][webgraphviz]
@@ -363,7 +365,7 @@ computational biology that I've found useful.
 > Computational biology and bioinformatics papers to cover the breadth of the
 > field.
 
-- [How to read a research paper][vsf] - one question to ask when reading papers.
+- [How to read a research paper][vsf] - One question to ask when reading papers.
 - [Zhang Lab Recommendations][zhang]
 - [The Leek group guide to genomics papers][jtleek]
 - ["Foundations of Computational and Systems Biology" Readings][mitocw] - MIT
