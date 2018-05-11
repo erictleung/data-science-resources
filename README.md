@@ -217,6 +217,7 @@ computational biology that I've found useful.
 - [devhints.io][devhints] - Modest collection of cheatsheets.
 - [Teach Yourself Programming in Ten Years][norvigprog]
 - [Code Complete Book Review][codecomplete] - Detailed review and notes of book.
+- [The Pragmatic Programmer Quick Reference][pragmaticcode]
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -230,6 +231,7 @@ computational biology that I've found useful.
 [devhints]: https://devhints.io/
 [norvigprog]: http://norvig.com/21-days.html
 [codecomplete]: http://codecourse.sourceforge.net/materials/Code-Complete-A-Detailed-Book-Review.html
+[pragmaticcode]: https://blog.codinghorror.com/a-pragmatic-quick-reference/
 
 
 ## Statistical Methods and Machine Learning
