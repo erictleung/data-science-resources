@@ -218,6 +218,7 @@ computational biology that I've found useful.
 - [Teach Yourself Programming in Ten Years][norvigprog]
 - [Code Complete Book Review][codecomplete] - Detailed review and notes of book.
 - [The Pragmatic Programmer Quick Reference][pragmaticcode]
+- [Bash Pitfalls][bashpits] - Common errors that Bash programmers make.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -232,6 +233,7 @@ computational biology that I've found useful.
 [norvigprog]: http://norvig.com/21-days.html
 [codecomplete]: http://codecourse.sourceforge.net/materials/Code-Complete-A-Detailed-Book-Review.html
 [pragmaticcode]: https://blog.codinghorror.com/a-pragmatic-quick-reference/
+[bashpits]: http://mywiki.wooledge.org/BashPitfalls
 
 
 ## Statistical Methods and Machine Learning
