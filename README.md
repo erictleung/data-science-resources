@@ -22,6 +22,7 @@ computational biology that I've found useful.
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Software Engineering](#software-engineering)
 - [Reproducible Science](#reproducible-science)
+- [People Skills](#people-skills)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -432,6 +433,23 @@ computational biology that I've found useful.
 [reproexpect]: https://doi.org/10.1177/1745691616646366
 [ecoguide]: http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
 [dockerbegin]: https://docker-curriculum.com/
+
+
+## People Skills
+
+> People skills are patterns of behavior and behavioral interactions.
+> Among people, it is an umbrella term for skills under three related
+> set of abilities: personal effectiveness, interaction skills, and
+> intercession skills.
+>
+> — [Wikipedia][people-wiki]
+
+- [How to ask good questions][questionevans] - By Julia Evans.
+- [How To Ask Questions The Smart Way][raymondquestions] - By Eric Raymond.
+
+[people-wiki]: https://en.wikipedia.org/wiki/People_skills
+[questionevans]: https://jvns.ca/blog/good-questions/
+[raymondquestions]: http://www.catb.org/~esr/faqs/smart-questions.html
 
 
 ## License
