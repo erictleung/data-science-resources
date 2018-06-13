@@ -420,8 +420,8 @@ computational biology that I've found useful.
 
 - [A statistical definition for reproducibility and replicability][reprodef]
 - [`scifigure`: Visualize Reproducibility and Replicability in a Comparison
-  of Scienfici Studies][scifigure] (R package)
-- [What should Researchers Expect WHen They Replicate Studies? A Statistical
+  of Scientific Studies][scifigure] (R package)
+- [What should Researchers Expect When They Replicate Studies? A Statistical
   View of Replicability in Psychological Science][reproexpect]
 - [A Guide to Reproducible Code in Ecology and Evolution][ecoguide] (PDF)
 - [Docker for Beginners][dockerbegin] - By Prakhar Srivastav.
