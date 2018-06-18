@@ -379,12 +379,14 @@ computational biology that I've found useful.
 - ["Foundations of Computational and Systems Biology" Readings][mitocw] - MIT
   OCW course readings.
 - [Question: What Are The Classic Papers In Bioinformatics?][biostarq]
+- [Best Academic Papers About the Microbiome][sprague]
 
 [vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
 [jtleek]: https://github.com/jtleek/genomicspapers
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
 [biostarq]: https://www.biostars.org/p/3204/
+[sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
 
 
 ## Software Engineering
