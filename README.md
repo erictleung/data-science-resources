@@ -428,6 +428,7 @@ computational biology that I've found useful.
   View of Replicability in Psychological Science][reproexpect]
 - [A Guide to Reproducible Code in Ecology and Evolution][ecoguide] (PDF)
 - [Docker for Beginners][dockerbegin] - By Prakhar Srivastav.
+- [Riffomonas: Reproducible Research][riff] - By Patrick D. Schloss.
 
 [repro-wiki]: https://en.wikipedia.org/wiki/Reproducibility
 [reprodef]: https://doi.org/10.1101/066803
@@ -435,6 +436,7 @@ computational biology that I've found useful.
 [reproexpect]: https://doi.org/10.1177/1745691616646366
 [ecoguide]: http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
 [dockerbegin]: https://docker-curriculum.com/
+[riff]: https://www.youtube.com/playlist?list=PLmNrK_nkqBpL0d2E26TqPkmTAfelYKbQX
 
 
 ## People Skills
