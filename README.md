@@ -324,6 +324,12 @@ computational biology that I've found useful.
 - [Animal Models of Anxiety: A Beginner's Guide][anxiety-model]
 - [The Microbiome Podcast][micropods] - By the American Microbiome Institute
   (AMI)
+- Various Pronunciation Guide of Biological Latin
+  - [Pronunciation of Biological Latin][genbiolatin] - Including scientific
+    names of plants and animals
+  - [Bacterial Pathogen Pronunciation Station][micropronounce]
+  - [Pronunciation Guide to Microorganisms from Rutgers][rutgerspronounce] (PDF)
+  - [Pronunciation Guide to Microorganisms from University of Minnesota][dummiespronounce] (PDF)
 
 [domain-wiki]: https://en.wikipedia.org/wiki/Domain_knowledge
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
@@ -332,6 +338,10 @@ computational biology that I've found useful.
 [condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
 [anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
 [micropods]: http://www.microbiomeinstitute.org/podcast/
+[genbiolatin]: http://capewest.ca/pron.html
+[micropronounce]: https://www.atsu.edu/faculty/chamberlain/website/studio.htm
+[rutgerspronounce]: http://www.rci.rutgers.edu/~microlab/CLASSINFO/IMAGESCI/pronunciation%20guide.pdf
+[dummiespronounce]: http://www.d.umn.edu/~rhicks/genmicro/Pronunciation%20Guide.pdf
 
 
 ## Data Visualization and Making Figures
