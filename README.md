@@ -365,6 +365,8 @@ computational biology that I've found useful.
 - [WebGraphviz is Graphviz in the Browser][webgraphviz]
 - [Same Stats, Different Graphs: Generating Datasets with Varied Appearance
   and Identical Statistics through Simulated Annealing][samestats]
+- [from Data to Viz][dattoviz] - Leads you to most appropriate graph for your
+  data.
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -376,6 +378,7 @@ computational biology that I've found useful.
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
 [webgraphviz]: http://www.webgraphviz.com/
 [samestats]: https://www.autodeskresearch.com/publications/samestats
+[dattoviz]: https://www.data-to-viz.com/
 
 
 ## Should-Read Bioinformatics Papers
