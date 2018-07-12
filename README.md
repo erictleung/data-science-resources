@@ -118,8 +118,10 @@ computational biology that I've found useful.
 ### Interactive Articles
 
 - [Interpreting Cohen's d effect size][cohensd]
+- [Interpreting Correlations][correlation]
 
 [cohensd]: http://rpsychologist.com/d3/cohend/
+[correlation]: http://rpsychologist.com/d3/correlation/
 
 
 ## Linear Algebra
