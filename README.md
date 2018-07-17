@@ -465,10 +465,12 @@ computational biology that I've found useful.
 
 - [How to ask good questions][questionevans] - By Julia Evans.
 - [How To Ask Questions The Smart Way][raymondquestions] - By Eric Raymond.
+- [Teaching Tech Together][teachingtech] - By Greg Wilson.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
 [raymondquestions]: http://www.catb.org/~esr/faqs/smart-questions.html
+[teachingtech]: http://teachtogether.tech/
 
 
 ## License
