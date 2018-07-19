@@ -138,6 +138,8 @@ computational biology that I've found useful.
   Bullshit Guide to Linear Algebra by Ivan Savov.
 - [S.O.S. Mathematics Matrix Algebra][sosmath]
 - [PCA, Eigenvectors, and Eigenvalues (Cross Validated)][eigenstats]
+- [The Matrix Reference Manual][matmanual] - Reference information about
+  linear algebra and the properties of real and complex matrices.
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -145,6 +147,7 @@ computational biology that I've found useful.
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 [sosmath]: http://www.sosmath.com/matrix/matrix.html
 [eigenstats]: https://stats.stackexchange.com/a/140579/
+[matmanual]: http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html
 
 
 ## Network Science
