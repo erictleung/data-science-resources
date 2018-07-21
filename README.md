@@ -372,6 +372,7 @@ computational biology that I've found useful.
   and Identical Statistics through Simulated Annealing][samestats]
 - [from Data to Viz][dattoviz] - Leads you to most appropriate graph for your
   data.
+- [Beautiful plotting in R: A ggplot2 cheatsheet][zevrossggplot2]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -384,6 +385,7 @@ computational biology that I've found useful.
 [webgraphviz]: http://www.webgraphviz.com/
 [samestats]: https://www.autodeskresearch.com/publications/samestats
 [dattoviz]: https://www.data-to-viz.com/
+[zevrossggplot2]: http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 
 
 ## Should-Read Bioinformatics Papers
