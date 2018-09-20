@@ -101,6 +101,7 @@ computational biology that I've found useful.
 - [First Internet Gallery of Statistics Jokes][ramseyerjokes]
 - [PLoS's Ten Simple Rules for Effective Statistical Practice][ploseffective]
 - [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
+- [Review of Probability Theory - Maleki and Do (PDF)][cs229prob]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -113,6 +114,7 @@ computational biology that I've found useful.
 [ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
 [ploseffective]: https://doi.org/10.1371/journal.pcbi.1004961
 [commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
+[cs229]: http://cs229.stanford.edu/section/cs229-prob.pdf
 
 
 ### Interactive Articles
@@ -140,6 +142,7 @@ computational biology that I've found useful.
 - [PCA, Eigenvectors, and Eigenvalues (Cross Validated)][eigenstats]
 - [The Matrix Reference Manual][matmanual] - Reference information about
   linear algebra and the properties of real and complex matrices.
+- [Linear Algebra Review and Reference - Kolter and Do (PDF)][cs229lin]
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -148,6 +151,7 @@ computational biology that I've found useful.
 [sosmath]: http://www.sosmath.com/matrix/matrix.html
 [eigenstats]: https://stats.stackexchange.com/a/140579/
 [matmanual]: http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html
+[cs229lin]: http://cs229.stanford.edu/section/cs229-linalg.pdf
 
 
 ## Network Science
@@ -262,7 +266,8 @@ computational biology that I've found useful.
 - [Understanding the Bias-Variance Tradeoff][biasvariance]
 - [Support Vector Machines (SVMs)][svms]
 - [Random Forests][rfs] - Creator Leo Breiman's site on random forests.
-- [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs. 
+- [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs.
+- [Learning Math for Machine Learning by Vincent Chen][learnmath]
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -276,6 +281,7 @@ computational biology that I've found useful.
 [svms]: http://svms.org/
 [rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [googleml]: https://developers.google.com/machine-learning/crash-course/
+[learnmath]: https://blog.ycombinator.com/learning-math-for-machine-learning/
 
 
 ## Computational Biology
