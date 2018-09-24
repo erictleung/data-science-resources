@@ -230,6 +230,8 @@ computational biology that I've found useful.
 - [The Pragmatic Programmer Quick Reference][pragmaticcode]
 - [Bash Pitfalls][bashpits] - Common errors that Bash programmers make, along
   with [Bash FAQs][bashfaqs] and general [Bash Programming][bashprogramming].
+- [Select Star SQL][selectsql] - Interactive book which aims to be the best
+  place on the internet for learning SQL. 
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -247,6 +249,7 @@ computational biology that I've found useful.
 [bashpits]: http://mywiki.wooledge.org/BashPitfalls
 [bashprogramming]: https://mywiki.wooledge.org/BashProgramming
 [bashfaqs]: https://mywiki.wooledge.org/BashFAQ
+[selectsql]: https://selectstarsql.com/
 
 
 ## Statistical Methods and Machine Learning
