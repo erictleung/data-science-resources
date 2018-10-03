@@ -101,7 +101,7 @@ computational biology that I've found useful.
 - [First Internet Gallery of Statistics Jokes][ramseyerjokes]
 - [PLoS's Ten Simple Rules for Effective Statistical Practice][ploseffective]
 - [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
-- [Review of Probability Theory - Maleki and Do (PDF)][cs229prob]
+- [Review of Probability Theory - Maleki and Do][cs229prob] (PDF)
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -114,7 +114,7 @@ computational biology that I've found useful.
 [ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
 [ploseffective]: https://doi.org/10.1371/journal.pcbi.1004961
 [commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
-[cs229]: http://cs229.stanford.edu/section/cs229-prob.pdf
+[cs229prob]: http://cs229.stanford.edu/section/cs229-prob.pdf
 
 
 ### Interactive Articles
