@@ -309,6 +309,8 @@ computational biology that I've found useful.
   works?][biostardeseq2]
 - [RNA-seqlopedia][rnauo] - Overview of RNA-seq and choices for a successful
   experiment.
+- [Mathematics of Bioinformatics - Theory, Practice, and Applications][mathbio]
+  (PDF)
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
@@ -320,6 +322,7 @@ computational biology that I've found useful.
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
 [rnauo]: https://rnaseq.uoregon.edu/
+[mathbio]: http://ibis.org.ir/files/site1/books/mathematics_of_bioinformatics.pdf
 
 
 ## Domain Knowledge
