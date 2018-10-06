@@ -62,6 +62,8 @@ computational biology that I've found useful.
   on statistical analysis.'
 - [Top Upvoted Questions on CrossValidated][topcrossvotes] - Great questions with
   great answers about topics in statistics and machine learning.
+- [Ordination Methods for Ecologists][ordokstate] - Resource of ordination
+  methodology
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -79,6 +81,7 @@ computational biology that I've found useful.
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [naturestats]: https://www.nature.com/collections/qghhqm
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
+[ordokstate]: http://ordination.okstate.edu/
 
 
 ### Specific Topics
