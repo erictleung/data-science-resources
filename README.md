@@ -417,6 +417,7 @@ computational biology that I've found useful.
   OCW course readings.
 - [Question: What Are The Classic Papers In Bioinformatics?][biostarq]
 - [Best Academic Papers About the Microbiome][sprague]
+- [Staying Current in Bioinformatics & Genomics: 2017 Edition][ggdcurrent] by Stephen Turner
 
 [vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
@@ -424,6 +425,7 @@ computational biology that I've found useful.
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
 [biostarq]: https://www.biostars.org/p/3204/
 [sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
+[ggdcurrent]: http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
 
 
 ## Software Engineering
