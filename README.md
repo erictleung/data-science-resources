@@ -418,6 +418,7 @@ computational biology that I've found useful.
 - [Question: What Are The Classic Papers In Bioinformatics?][biostarq]
 - [Best Academic Papers About the Microbiome][sprague]
 - [Staying Current in Bioinformatics & Genomics: 2017 Edition][ggdcurrent] by Stephen Turner
+- [Miscellaneous Readings for RNA-Seq Analysis, Differential Gene Expression, and Functional Enrichment Analysis][diytranscriptomics]
 
 [vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
 [zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
@@ -426,6 +427,7 @@ computational biology that I've found useful.
 [biostarq]: https://www.biostars.org/p/3204/
 [sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
 [ggdcurrent]: http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
+[diytranscriptomics]: http://diytranscriptomics.com/Reading/
 
 
 ## Software Engineering
