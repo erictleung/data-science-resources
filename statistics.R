@@ -81,6 +81,7 @@ rbinom(n - 5, 5, 0.5) # n rand nums for flipping 5 times with 0.5 probability
 
 # Student (`t`) e.g. dt()
 # Intuition: mixture of normal distributions
+# More http://sumsar.net/blog/2013/12/t-as-a-mixture-of-normals/
 
 # Exponential distribution
 # Intuition: waiting time between two events
