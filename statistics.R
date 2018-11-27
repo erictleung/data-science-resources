@@ -1,5 +1,5 @@
 # Title:
-#   Statistics
+#   Statistics and Probability
 #
 # Table of Contents:
 #   - Vocabulary
@@ -46,7 +46,8 @@
 
 # Common distribution types:
 
-# Normal/Gaussian (`norm`) - classic bell curve
+# Normal/Gaussian (`norm`)
+# Intuition: classic bell curve
 pnorm(q = 0)    # Probability distribution function
 # [1] 0.5
 pnorm(q = 0.5)  # q is the z-score in Normal distribution
@@ -62,19 +63,38 @@ rnorm(n = 2)    # Return n number of random numbers from distribution
 rnorm(5)        # Example for 5 numbers
 # [1] -0.7124012  0.6193859  0.5909824 -1.8960678  1.9938475
 
-# Binomial (`binom`) - number of successes in flips
+# Binomial (`binom`)
+# Intuition: number of successes in flips
 dbinom(x = 1, size = 5, prob = 0.5) # Prob of 1 success out of 5 flips with 0.5
 pbinom(q = 0.05, 5, 0.5) # Probability for 5% quantile for 5 flips
 qbinom(p = 0.99, 5, 0.5) # Num of flips at 99% quantile for 5 flips
 rbinom(n - 5, 5, 0.5) # n rand nums for flipping 5 times with 0.5 probability
 
+# Negative binomial
+# Intuition: number of successes in flips until number of failures
+
 # Poisson (`pois`)
+# Intuition: number of cars passing through intersection
+
 # Uniform (`unif`)
+# Intuition: position of air molecule in room
+
 # Student (`t`) e.g. dt()
+# Intuition: mixture of normal distributions
+
+# Exponential distribution
+# Intuition: waiting time between two events
+
+# Gamma distribution
+# Intuition: the nth event within waiting time
 
 # Dirichlet distribution
+# Intuition: sampling from simplex
 library(MCMCpack)
 rdirichlet(n = 25, alpha = c(1, 2, 3))
+
+# Negative binomial distribution
+# Intuition: 
 
 # One-sample tests -----------------------------------------------------
 
