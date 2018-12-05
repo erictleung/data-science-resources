@@ -64,6 +64,8 @@ computational biology that I've found useful.
   great answers about topics in statistics and machine learning.
 - [Ordination Methods for Ecologists][ordokstate] - Resource of ordination
   methodology
+- [Probability Cheatsheet][probcheat] - Compiled by William Chen and Joe
+  Blitzstein
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -82,6 +84,7 @@ computational biology that I've found useful.
 [naturestats]: https://www.nature.com/collections/qghhqm
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
+[probcheat]: https://github.com/wzchen/probability_cheatsheet
 
 
 ### Specific Topics
