@@ -9,6 +9,7 @@ computational biology that I've found useful.
 
 - [Statistics and Probability](#statistics-and-probability)
   - [General Resources](#general-resources)
+  - [R Friendly Resources](#r-friendly-resources)
   - [Specific Topics](#specific-topics)
   - [Interactive Articles](#interactive-articles)
 - [Linear Algebra](#linear-algebra)
@@ -40,10 +41,6 @@ computational biology that I've found useful.
   set of notes from "Biological Data Analysis" course from University of Delaware.
 - [Engineering Statistics Handbook][niststats] - Handbook to help scientists
   and engineering incorporate statistical methods.
-- [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
-  SPSS, and Stata.
-- [My statistics notes][mystatscript]
-- [Quick-R][quickr] - Quick reference to statistical methods using R.
 - [Stat Trek][stattrek] - Teach yourself statistics.
 - [Online Statistics Education][onlinestats] - Developed by Rice University,
   University of Houston Clear Lake, and Tufts University.
@@ -70,9 +67,6 @@ computational biology that I've found useful.
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
 [niststats]: https://itl.nist.gov/div898/handbook/index.htm
-[idre]: http://www.ats.ucla.edu/stat/
-[mystatscript]: ./statistics.R
-[quickr]: http://www.statmethods.net/
 [stattrek]: http://stattrek.com/
 [onlinestats]: http://onlinestatbook.com/2/index.html
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
@@ -85,6 +79,23 @@ computational biology that I've found useful.
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
 [probcheat]: https://github.com/wzchen/probability_cheatsheet
+
+
+### R Friendly Resources
+
+- [Quick-R][quickr] - Quick reference to statistical methods using R.
+- [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
+  SPSS, and Stata.
+- [r-statistics.so][rstatsco] - Educational resource for machine learning and
+  statistical computing in R.
+- [W2024 Applied Linear Regression Analysis][appliedlinreg]
+- [My statistics notes][mystatscript]
+
+[quickr]: http://www.statmethods.net/
+[idre]: http://www.ats.ucla.edu/stat/
+[rstatsco]: http://r-statistics.co/
+[appliedlinreg]: http://www.stat.columbia.edu/~martin/W2024/W2024.html
+[mystatscript]: ./statistics.R
 
 
 ### Specific Topics
