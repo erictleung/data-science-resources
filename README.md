@@ -403,6 +403,7 @@ computational biology that I've found useful.
   data.
 - [Beautiful plotting in R: A ggplot2 cheatsheet][zevrossggplot2]
 - [Effectively Using Matplotlib][effectivemat]
+- [Fundamentals of Data Visualization][fundamentaldataviz] by Claus O. Wilke
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -417,6 +418,7 @@ computational biology that I've found useful.
 [dattoviz]: https://www.data-to-viz.com/
 [zevrossggplot2]: http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 [effectivemat]: http://pbpython.com/effective-matplotlib.html
+[fundamentaldataviz]: https://serialmentor.com/dataviz/
 
 
 ## Should-Read Bioinformatics Papers
