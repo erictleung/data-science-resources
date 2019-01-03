@@ -23,7 +23,7 @@ computational biology that I've found useful.
 - [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
 - [Software Engineering](#software-engineering)
 - [Reproducible Science](#reproducible-science)
-- [People Skills](#people-skills)
+- [People Skills and Communication](#people-skills-and-communication)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -496,7 +496,7 @@ computational biology that I've found useful.
 [riff]: https://www.youtube.com/playlist?list=PLmNrK_nkqBpL0d2E26TqPkmTAfelYKbQX
 
 
-## People Skills
+## People Skills and Communication
 
 > People skills are patterns of behavior and behavioral interactions.
 > Among people, it is an umbrella term for skills under three related
@@ -508,13 +508,16 @@ computational biology that I've found useful.
 - [How to ask good questions][questionevans] - By Julia Evans.
 - [How To Ask Questions The Smart Way][raymondquestions] - By Eric Raymond.
 - [Teaching Tech Together][teachingtech] - By Greg Wilson.
-- [(An Opionionated Talk) On Preparing Good Talks][jhalatalk] (PDF) - By Ranjit Jhala. 
+- [(An Opionionated Talk) On Preparing Good Talks][jhalatalk] (PDF) - By Ranjit Jhala.
+- [CommKit][commkit] - By MIT's Department of Biological Engineering Communication
+  Fellows on successfull scientific communication.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
 [raymondquestions]: http://www.catb.org/~esr/faqs/smart-questions.html
 [teachingtech]: http://teachtogether.tech/
 [jhalatalk]: https://ranjitjhala.github.io/static/PLMW-talk-opinionated.pdf
+[commkit]: http://mitcommlab.mit.edu/be/use-the-commkit/
 
 
 ## License
