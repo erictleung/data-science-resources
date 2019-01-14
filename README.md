@@ -513,6 +513,8 @@ computational biology that I've found useful.
 - [(An Opionionated Talk) On Preparing Good Talks][jhalatalk] (PDF) - By Ranjit Jhala.
 - [CommKit][commkit] - By MIT's Department of Biological Engineering Communication
   Fellows on successfull scientific communication.
+- [General Principles of Mathematical Communication][maacomm] - By Mathematical
+  Association of America
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
@@ -520,6 +522,7 @@ computational biology that I've found useful.
 [teachingtech]: http://teachtogether.tech/
 [jhalatalk]: https://ranjitjhala.github.io/static/PLMW-talk-opinionated.pdf
 [commkit]: http://mitcommlab.mit.edu/be/use-the-commkit/
+[maacomm]: http://mathcomm.org/general-principles-of-communicating-math/
 
 
 ## License
