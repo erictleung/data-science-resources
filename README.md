@@ -63,6 +63,8 @@ computational biology that I've found useful.
   methodology
 - [Probability Cheatsheet][probcheat] - Compiled by William Chen and Joe
   Blitzstein
+- [Statistics Done Wrong][wrongstats] - Reviews popular statistical errors and
+  slip-ups committed by scientists every day.
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -79,6 +81,7 @@ computational biology that I've found useful.
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
 [probcheat]: https://github.com/wzchen/probability_cheatsheet
+[wrongstats]: https://www.statisticsdonewrong.com/
 
 
 ### R Friendly Resources
