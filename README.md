@@ -521,7 +521,8 @@ computational biology that I've found useful.
 - [CommKit][commkit] - By MIT's Department of Biological Engineering Communication
   Fellows on successfull scientific communication.
 - [General Principles of Mathematical Communication][maacomm] - By Mathematical
-  Association of America
+  Association of America.
+- [Community Tool Box][commtoolbox] - By University of Kansas.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
@@ -530,6 +531,7 @@ computational biology that I've found useful.
 [jhalatalk]: https://ranjitjhala.github.io/static/PLMW-talk-opinionated.pdf
 [commkit]: http://mitcommlab.mit.edu/be/use-the-commkit/
 [maacomm]: http://mathcomm.org/general-principles-of-communicating-math/
+[commtoolbox]: https://ctb.ku.edu/en
 
 
 ## License
