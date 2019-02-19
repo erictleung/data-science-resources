@@ -123,6 +123,8 @@ computational biology that I've found useful.
 - [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
 - [Review of Probability Theory - Maleki and Do][cs229prob] (PDF)
 - [Effect Size FAQs][effectsize]
+- [Common Mistakes in Using Statistics - Spotting Them and Avoiding
+  Them][commonstats]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -137,6 +139,7 @@ computational biology that I've found useful.
 [commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
 [cs229prob]: http://cs229.stanford.edu/section/cs229-prob.pdf
 [effectsize]: https://effectsizefaq.com/
+[commonstats]: https://web.ma.utexas.edu/users/mks/CommonMistakes2016/commonmistakeshome2016.html
 
 
 ### Interactive Articles
