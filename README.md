@@ -376,6 +376,7 @@ computational biology that I've found useful.
   - [Bacterial Pathogen Pronunciation Station][micropronounce]
   - [Pronunciation Guide to Microorganisms from Rutgers][rutgerspronounce] (PDF)
   - [Pronunciation Guide to Microorganisms from University of Minnesota][dummiespronounce] (PDF)
+- [The Human Microbiome Project Collection - PLOS Collections][ploshmp]
 
 [domain-wiki]: https://en.wikipedia.org/wiki/Domain_knowledge
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
@@ -388,6 +389,7 @@ computational biology that I've found useful.
 [micropronounce]: https://www.atsu.edu/faculty/chamberlain/website/studio.htm
 [rutgerspronounce]: http://www.rci.rutgers.edu/~microlab/CLASSINFO/IMAGESCI/pronunciation%20guide.pdf
 [dummiespronounce]: http://www.d.umn.edu/~rhicks/genmicro/Pronunciation%20Guide.pdf
+[ploshmp]: https://collections.plos.org/hmp
 
 
 ## Data Visualization and Making Figures
