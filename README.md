@@ -24,6 +24,7 @@ computational biology that I've found useful.
 - [Software Engineering](#software-engineering)
 - [Reproducible Science](#reproducible-science)
 - [People Skills and Communication](#people-skills-and-communication)
+- [Other Lists](#other-lists)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -539,6 +540,15 @@ computational biology that I've found useful.
 [commkit]: http://mitcommlab.mit.edu/be/use-the-commkit/
 [maacomm]: http://mathcomm.org/general-principles-of-communicating-math/
 [commtoolbox]: https://ctb.ku.edu/en
+
+
+## Other Lists
+
+> Useful lists on their own that may intersect other topics above.
+
+- [Awesome Design Tools][adt]
+
+[adt]: https://github.com/LisaDziuba/Awesome-Design-Tools
 
 
 ## License
