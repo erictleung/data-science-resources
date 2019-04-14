@@ -66,6 +66,7 @@ computational biology that I've found useful.
   Blitzstein
 - [Statistics Done Wrong][wrongstats] - Reviews popular statistical errors and
   slip-ups committed by scientists every day.
+- [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -83,6 +84,7 @@ computational biology that I've found useful.
 [ordokstate]: http://ordination.okstate.edu/
 [probcheat]: https://github.com/wzchen/probability_cheatsheet
 [wrongstats]: https://www.statisticsdonewrong.com/
+[statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
 
 
 ### R Friendly Resources
