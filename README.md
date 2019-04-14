@@ -171,6 +171,7 @@ computational biology that I've found useful.
 - [The Matrix Reference Manual][matmanual] - Reference information about
   linear algebra and the properties of real and complex matrices.
 - [Linear Algebra Review and Reference - Kolter and Do (PDF)][cs229lin]
+- [Immersive Linear Algebra][immersivelinalg]
 
 [la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -180,6 +181,7 @@ computational biology that I've found useful.
 [eigenstats]: https://stats.stackexchange.com/a/140579/
 [matmanual]: http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html
 [cs229lin]: http://cs229.stanford.edu/section/cs229-linalg.pdf
+[immersivelinalg]: http://immersivemath.com/ila/index.html
 
 
 ## Network Science
@@ -261,6 +263,10 @@ computational biology that I've found useful.
 - [Select Star SQL][selectsql] - Interactive book which aims to be the best
   place on the internet for learning SQL.
 - [Tech Dev Guide][techguide] - By Google.
+- [How to C in 2016][c2016]
+- [explainshell][explainshell] - See help text that matches each argument.
+- [Teach Yourself Computer Science][teachyourselfcs]
+- [Competitive Programming Books][competecode]
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -280,6 +286,10 @@ computational biology that I've found useful.
 [bashfaqs]: https://mywiki.wooledge.org/BashFAQ
 [selectsql]: https://selectstarsql.com/
 [techguide]: https://techdevguide.withgoogle.com/
+[c2016]: https://matt.sh/howto-c
+[explainshell]: https://explainshell.com/
+[teachyourselfcs]: https://teachyourselfcs.com/
+[competecode]: https://cses.fi/book/index.html
 
 
 ## Statistical Methods and Machine Learning
@@ -301,6 +311,7 @@ computational biology that I've found useful.
 - [Random Forests][rfs] - Creator Leo Breiman's site on random forests.
 - [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs.
 - [Learning Math for Machine Learning by Vincent Chen][learnmath]
+- [Calculus Made Easy][easycalc] (PDF)
 
 [ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
@@ -315,6 +326,7 @@ computational biology that I've found useful.
 [rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [googleml]: https://developers.google.com/machine-learning/crash-course/
 [learnmath]: https://blog.ycombinator.com/learning-math-for-machine-learning/
+[easycalc]: http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf
 
 
 ## Computational Biology
@@ -480,6 +492,8 @@ computational biology that I've found useful.
 - [Flowchart Symbols Explained][smartdraw]
 - [Write the Docs][writethedocs] - A global community of people who care
   about documentation.
+- [Amazon Web Services - A Practical Guide][awspractical]
+- [Amazon Web Services in Plain English][awsenglish]
 
 [swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
@@ -488,6 +502,8 @@ computational biology that I've found useful.
 [spiresources]: http://rspa.com/spi/
 [smartdraw]: https://www.smartdraw.com/flowchart/flowchart-symbols.htm
 [writethedocs]: http://www.writethedocs.org/
+[awspractical]: https://github.com/open-guides/og-aws
+[awsenglish]: https://www.expeditedssl.com/aws-in-plain-english
 
 
 ## Reproducible Science
@@ -549,8 +565,10 @@ computational biology that I've found useful.
 > Useful lists on their own that may intersect other topics above.
 
 - [Awesome Design Tools][adt]
+- [Fred's ImageMagick Scripts][imagemagickscripts]
 
 [adt]: https://github.com/LisaDziuba/Awesome-Design-Tools
+[imagemagickscripts]: http://www.fmwconcepts.com/imagemagick/index.php
 
 
 ## License
