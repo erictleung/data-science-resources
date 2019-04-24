@@ -67,6 +67,7 @@ computational biology that I've found useful.
 - [Statistics Done Wrong][wrongstats] - Reviews popular statistical errors and
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
+- [ModernDive - Statistical Inference via Data Science][moderndive]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -85,6 +86,7 @@ computational biology that I've found useful.
 [probcheat]: https://github.com/wzchen/probability_cheatsheet
 [wrongstats]: https://www.statisticsdonewrong.com/
 [statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
+[moderndive]: https://moderndive.com/
 
 
 ### R Friendly Resources
