@@ -391,7 +391,6 @@ computational biology that I've found useful.
   - [Pronunciation of Biological Latin][genbiolatin] - Including scientific
     names of plants and animals
   - [Bacterial Pathogen Pronunciation Station][micropronounce]
-  - [Pronunciation Guide to Microorganisms from Rutgers][rutgerspronounce] (PDF)
   - [Pronunciation Guide to Microorganisms from University of Minnesota][dummiespronounce] (PDF)
 - [The Human Microbiome Project Collection - PLOS Collections][ploshmp]
 
@@ -404,7 +403,6 @@ computational biology that I've found useful.
 [micropods]: http://www.microbiomeinstitute.org/podcast/
 [genbiolatin]: http://capewest.ca/pron.html
 [micropronounce]: https://www.atsu.edu/faculty/chamberlain/website/studio.htm
-[rutgerspronounce]: http://www.rci.rutgers.edu/~microlab/CLASSINFO/IMAGESCI/pronunciation%20guide.pdf
 [dummiespronounce]: http://www.d.umn.edu/~rhicks/genmicro/Pronunciation%20Guide.pdf
 [ploshmp]: https://collections.plos.org/hmp
 
