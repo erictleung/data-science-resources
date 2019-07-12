@@ -68,6 +68,7 @@ computational biology that I've found useful.
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [ModernDive - Statistical Inference via Data Science][moderndive]
+- [Modern Statistics for Modern Biologists][msmb]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -87,6 +88,7 @@ computational biology that I've found useful.
 [wrongstats]: https://www.statisticsdonewrong.com/
 [statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
 [moderndive]: https://moderndive.com/
+[msmb]: https://web.stanford.edu/class/bios221/book/
 
 
 ### R Friendly Resources
