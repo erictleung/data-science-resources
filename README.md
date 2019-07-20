@@ -69,6 +69,7 @@ computational biology that I've found useful.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [ModernDive - Statistical Inference via Data Science][moderndive]
 - [Modern Statistics for Modern Biologists][msmb]
+- [Wiley StatsRef: Statistics Reference Online][wileystats]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -89,6 +90,7 @@ computational biology that I've found useful.
 [statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
 [moderndive]: https://moderndive.com/
 [msmb]: https://web.stanford.edu/class/bios221/book/
+[wileystats]: https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112
 
 
 ### R Friendly Resources
