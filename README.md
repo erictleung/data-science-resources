@@ -553,6 +553,8 @@ computational biology that I've found useful.
 - [General Principles of Mathematical Communication][maacomm] - By Mathematical
   Association of America.
 - [Community Tool Box][commtoolbox] - By University of Kansas.
+- [Speech-Words to Minutes][speechtime] - Estimate how many words are need for a given
+  timed speech.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
@@ -562,6 +564,7 @@ computational biology that I've found useful.
 [commkit]: http://mitcommlab.mit.edu/be/use-the-commkit/
 [maacomm]: http://mathcomm.org/general-principles-of-communicating-math/
 [commtoolbox]: https://ctb.ku.edu/en
+[speechtime]: http://www.speechinminutes.com/
 
 
 ## Other Lists
