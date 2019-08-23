@@ -438,6 +438,11 @@ computational biology that I've found useful.
 - [Effectively Using Matplotlib][effectivemat]
 - [Fundamentals of Data Visualization][fundamentaldataviz] by Claus O. Wilke
 - [Practical Typography][practicaltypo] by Matthew Butterick
+- [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
+  art
+  - [Asciidraw][asciidraw]
+  - [Asciiflow][asciiflow]
+  - [Hand drawn feel to diagrams][shaky]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -454,6 +459,10 @@ computational biology that I've found useful.
 [effectivemat]: http://pbpython.com/effective-matplotlib.html
 [fundamentaldataviz]: https://serialmentor.com/dataviz/
 [practicaltypo]: https://practicaltypography.com
+[ditaa]: https://github.com/stathissideris/ditaa
+[asciidraw]: http://www.asciidraw.com/
+[asciiflow]: http://asciiflow.com/
+[shaky]: http://shaky.github.bushong.net/
 
 
 ## Should-Read Bioinformatics Papers
