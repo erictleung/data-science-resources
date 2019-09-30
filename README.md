@@ -402,7 +402,7 @@ computational biology that I've found useful.
 [armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
 [khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
 [flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
-[condknock]: http://www.genetargeting.com/products-and-services/types-of-mouse-models/conditional-knockout-mouse-models/
+[condknock]: https://www.genetargeting.com/conditional-knockout-mouse-models/
 [anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
 [micropods]: http://www.microbiomeinstitute.org/podcast/
 [genbiolatin]: http://capewest.ca/pron.html
