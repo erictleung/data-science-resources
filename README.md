@@ -564,6 +564,10 @@ computational biology that I've found useful.
 - [Community Tool Box][commtoolbox] - By University of Kansas.
 - [Speech-Words to Minutes][speechtime] - Estimate how many words are need for a given
   timed speech.
+- [Novelist Cormac McCarthy's tips on how to write a great science paper][scicommmccarthy]
+  The Pulitzer prizewinner shares his advice for pleasing readers, editors and yourself.
+- [Science Writing: Guidelines and Guidelines][scicommzimmer] - Notes from Carl Zimmer
+  on writing about science, medicine, and the environment.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
@@ -574,6 +578,8 @@ computational biology that I've found useful.
 [maacomm]: http://mathcomm.org/general-principles-of-communicating-math/
 [commtoolbox]: https://ctb.ku.edu/en
 [speechtime]: http://www.speechinminutes.com/
+[scicommmccarthy]: https://www.nature.com/articles/d41586-019-02918-5
+[scicommzimmer]: https://carlzimmer.com/science-writing-guidelines-and-guidance/
 
 
 ## Other Lists
