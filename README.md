@@ -134,6 +134,7 @@ computational biology that I've found useful.
 - [Effect Size FAQs][effectsize]
 - [Common Mistakes in Using Statistics - Spotting Them and Avoiding
   Them][commonstats]
+- [Common Statistical Tests are Linear Models (Or: How to Teach Stats)][statslinmod]
 
 [stats-wiki]: https://en.wikipedia.org/wiki/Statistics
 [pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
@@ -149,6 +150,7 @@ computational biology that I've found useful.
 [cs229prob]: http://cs229.stanford.edu/section/cs229-prob.pdf
 [effectsize]: https://effectsizefaq.com/
 [commonstats]: https://web.ma.utexas.edu/users/mks/CommonMistakes2016/commonmistakeshome2016.html
+[statslinmod]: https://lindeloev.github.io/tests-as-linear/
 
 
 ### Interactive Articles
