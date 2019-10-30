@@ -70,6 +70,7 @@ computational biology that I've found useful.
 - [ModernDive - Statistical Inference via Data Science][moderndive]
 - [Modern Statistics for Modern Biologists][msmb]
 - [Wiley StatsRef: Statistics Reference Online][wileystats]
+- [The Little Handbook of Statistical Practice][lhsp]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -91,6 +92,7 @@ computational biology that I've found useful.
 [moderndive]: https://moderndive.com/
 [msmb]: https://web.stanford.edu/class/bios221/book/
 [wileystats]: https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112
+[lhsp]: http://www.jerrydallal.com/LHSP/LHSP.HTM
 
 
 ### R Friendly Resources
