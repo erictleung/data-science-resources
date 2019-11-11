@@ -375,7 +375,7 @@ computational biology that I've found useful.
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
 [rnauo]: https://rnaseq.uoregon.edu/
-[mathbio]: http://ibis.org.ir/files/site1/books/mathematics_of_bioinformatics.pdf
+[mathbio]: https://archive.org/details/MathematicsOfBioinformatics
 [deseqtheory]: http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory-behind-deseq2
 
 
@@ -444,7 +444,6 @@ computational biology that I've found useful.
 - [Practical Typography][practicaltypo] by Matthew Butterick
 - [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
   art
-  - [Asciidraw][asciidraw]
   - [Asciiflow][asciiflow]
   - [Hand drawn feel to diagrams][shaky]
 
@@ -464,7 +463,6 @@ computational biology that I've found useful.
 [fundamentaldataviz]: https://serialmentor.com/dataviz/
 [practicaltypo]: https://practicaltypography.com
 [ditaa]: https://github.com/stathissideris/ditaa
-[asciidraw]: http://www.asciidraw.com/
 [asciiflow]: http://asciiflow.com/
 [shaky]: http://shaky.github.bushong.net/
 
