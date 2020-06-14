@@ -375,7 +375,7 @@ computational biology that I've found useful.
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
 [rnauo]: https://rnaseq.uoregon.edu/
-[mathbio]: https://archive.org/details/MathematicsOfBioinformatics
+[mathbio]: https://archive.org/details/mathematics-of-bioinformatics
 [deseqtheory]: http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory-behind-deseq2
 
 
@@ -488,7 +488,7 @@ computational biology that I've found useful.
 [mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
 [biostarq]: https://www.biostars.org/p/3204/
 [sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
-[ggdcurrent]: http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
+[ggdcurrent]: https://gettinggeneticsdone.blogspot.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
 [diytranscriptomics]: http://diytranscriptomics.com/
 
 
