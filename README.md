@@ -207,10 +207,13 @@ computational biology that I've found useful.
 - [Network Science Book][netbook] - Online book with visualizations and
   interactive tools about network science by Albert-László Barabási.
 - [Graph Theory by Sarada Herke][graphherke] - YouTube series on graph theory.
+- [Network Science][netsci] - Aggregate of all things network science resarch,
+  introductions, people, journals, conferences, datasets, etc.
 
 [nets-wiki]: https://en.wikipedia.org/wiki/Network_science
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
+[netsci]: http://www.network-science.org/
 
 
 ## Algorithms and Data Structures
