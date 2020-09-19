@@ -80,7 +80,7 @@ computational biology that I've found useful.
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
-[statsoft]: http://www.statsoft.com/Textbook
+[statsoft]: https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [naturestats]: https://www.nature.com/collections/qghhqm
