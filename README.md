@@ -67,7 +67,6 @@ computational biology that I've found useful.
 - [Statistics Done Wrong][wrongstats] - Reviews popular statistical errors and
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
-- [ModernDive - Statistical Inference via Data Science][moderndive]
 - [Modern Statistics for Modern Biologists][msmb]
 - [Wiley StatsRef: Statistics Reference Online][wileystats]
 - [The Little Handbook of Statistical Practice][lhsp]
@@ -98,6 +97,7 @@ computational biology that I've found useful.
 ### R Friendly Resources
 
 - [Quick-R][quickr] - Quick reference to statistical methods using R.
+- [ModernDive - Statistical Inference via Data Science][moderndive]
 - [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
   SPSS, and Stata.
 - [r-statistics.so][rstatsco] - Educational resource for machine learning and
