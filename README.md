@@ -12,6 +12,7 @@ computational biology that I've found useful.
   - [R Friendly Resources](#r-friendly-resources)
   - [Specific Topics](#specific-topics)
   - [Interactive Articles](#interactive-articles)
+  - [Data-related](#data-related)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -169,6 +170,19 @@ computational biology that I've found useful.
 [correlation]: http://rpsychologist.com/d3/correlation/
 [interactivemldlstats]: https://p.migdal.pl/interactive-machine-learning-list/
 
+
+### Data-related
+
+- [Tidyverse][tidyverse] - Opinionated collection of R packages designed for
+  data science
+- [Tidymodels][tidymodels] - Framework that is a collection of packages for
+  modeling and machine learning using tidyverse principles.
+- [Text Mining with R][tidytext] - A tidy approach to performing text analysis
+  in R.
+
+[tidyverse]: https://www.tidyverse.org/
+[tidymodels]: https://www.tidymodels.org/
+[tidytext]: https://www.tidytextmining.com/
 
 ## Linear Algebra
 
