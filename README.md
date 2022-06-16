@@ -1,4 +1,4 @@
-# review [![Build Status](https://travis-ci.org/erictleung/review.svg?branch=master)](https://travis-ci.org/erictleung/review)
+# review
 
 Review and resource materials from around the internet for bioinformatics and
 computational biology that I've found useful.
