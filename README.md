@@ -71,7 +71,6 @@ computational biology that I've found useful.
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [Modern Statistics for Modern Biologists][msmb]
-- [Wiley StatsRef: Statistics Reference Online][wileystats]
 - [The Little Handbook of Statistical Practice][lhsp]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
@@ -93,7 +92,6 @@ computational biology that I've found useful.
 [statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
 [moderndive]: https://moderndive.com/
 [msmb]: https://web.stanford.edu/class/bios221/book/
-[wileystats]: https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112
 [lhsp]: http://www.jerrydallal.com/LHSP/LHSP.HTM
 
 
@@ -111,7 +109,7 @@ computational biology that I've found useful.
 [quickr]: http://www.statmethods.net/
 [idre]: http://www.ats.ucla.edu/stat/
 [rstatsco]: http://r-statistics.co/
-[appliedlinreg]: http://www.stat.columbia.edu/~martin/W2024/W2024.html
+[appliedlinreg]: https://web.archive.org/web/20181222115225/http://www.stat.columbia.edu/~martin/W2024/W2024.html
 [mystatscript]: ./statistics.R
 
 
@@ -483,7 +481,7 @@ computational biology that I've found useful.
 [webgraphviz]: http://www.webgraphviz.com/
 [samestats]: https://www.autodeskresearch.com/publications/samestats
 [dattoviz]: https://www.data-to-viz.com/
-[zevrossggplot2]: http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
+[zevrossggplot2]: https://web.archive.org/web/20220501085848/http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 [effectivemat]: http://pbpython.com/effective-matplotlib.html
 [fundamentaldataviz]: https://serialmentor.com/dataviz/
 [practicaltypo]: https://practicaltypography.com
