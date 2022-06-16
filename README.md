@@ -1,5 +1,7 @@
 # review
 
+[![Check Resources](https://github.com/erictleung/review/actions/workflows/test.yml/badge.svg)](https://github.com/erictleung/review/actions/workflows/test.yml)
+
 Review and resource materials from around the internet for bioinformatics and
 computational biology that I've found useful.
 
