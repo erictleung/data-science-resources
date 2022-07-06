@@ -229,11 +229,15 @@ computational biology that I've found useful.
 - [Graph Theory by Sarada Herke][graphherke] - YouTube series on graph theory.
 - [Network Science][netsci] - Aggregate of all things network science resarch,
   introductions, people, journals, conferences, datasets, etc.
+- [Handbook of Graphs and Networks in People Analytics][ona] - The second
+  volume in a series of technical textbooks for professionals working in
+  analytics
 
 [nets-wiki]: https://en.wikipedia.org/wiki/Network_science
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 [netsci]: http://www.network-science.org/
+[ona]: https://ona-book.org/
 
 
 ## Algorithms and Data Structures
