@@ -471,8 +471,8 @@ computational biology that I've found useful.
 - [Practical Typography][practicaltypo] by Matthew Butterick
 - [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
   art
-  - [Asciiflow][asciiflow]
-  - [Hand drawn feel to diagrams][shaky]
+- [Asciiflow][asciiflow]
+- [Hand drawn feel to diagrams][shaky]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
@@ -517,6 +517,12 @@ computational biology that I've found useful.
 [sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
 [ggdcurrent]: https://gettinggeneticsdone.blogspot.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
 [diytranscriptomics]: http://diytranscriptomics.com/
+
+> General knowledge mapping and exploration tools
+
+- [Inciteful][inciteful] - Tools to help you accelerate your research
+
+[inciteful]: https://inciteful.xyz/
 
 
 ## Software Engineering
