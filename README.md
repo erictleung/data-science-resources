@@ -603,6 +603,8 @@ computational biology that I've found useful.
   The Pulitzer prizewinner shares his advice for pleasing readers, editors and yourself.
 - [Science Writing: Guidelines and Guidelines][scicommzimmer] - Notes from Carl Zimmer
   on writing about science, medicine, and the environment.
+- [Write the Paper First][writepaper] - Argues that "writing now is a favor to yourself"
+  and the benefits of clear writing for organizing thoughts early.
 
 [people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
@@ -615,6 +617,7 @@ computational biology that I've found useful.
 [speechtime]: http://www.speechinminutes.com/
 [scicommmccarthy]: https://www.nature.com/articles/d41586-019-02918-5
 [scicommzimmer]: https://carlzimmer.com/science-writing-guidelines-and-guidance/
+[writepaper]: https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html
 
 
 ## Other Lists
