@@ -104,13 +104,11 @@ computational biology that I've found useful.
 - [r-statistics.so][rstatsco] - Educational resource for machine learning and
   statistical computing in R.
 - [W2024 Applied Linear Regression Analysis][appliedlinreg]
-- [My statistics notes][mystatscript]
 
 [quickr]: http://www.statmethods.net/
 [idre]: http://www.ats.ucla.edu/stat/
 [rstatsco]: http://r-statistics.co/
 [appliedlinreg]: https://web.archive.org/web/20181222115225/http://www.stat.columbia.edu/~martin/W2024/W2024.html
-[mystatscript]: ./statistics.R
 
 
 ### Specific Topics
