@@ -230,12 +230,15 @@ computational biology that I've found useful.
 - [Handbook of Graphs and Networks in People Analytics][ona] - The second
   volume in a series of technical textbooks for professionals working in
   analytics
+- [Awesome Network Analysis][ana] - Curated awesome list of network analysis
+  resources
 
 [nets-wiki]: https://en.wikipedia.org/wiki/Network_science
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 [netsci]: http://www.network-science.org/
 [ona]: https://ona-book.org/
+[ana: https://github.com/briatte/awesome-network-analysis
 
 
 ## Algorithms and Data Structures
@@ -302,6 +305,9 @@ computational biology that I've found useful.
 - [explainshell][explainshell] - See help text that matches each argument.
 - [Teach Yourself Computer Science][teachyourselfcs]
 - [Competitive Programming Books][competecode]
+- [Comprehensive Python Cheatsheet][comppy]
+- [Practical Business Python][bizpy]
+- [Full Stack Python][fullstackpy] - Build, deploy and operate Python apps.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -325,6 +331,9 @@ computational biology that I've found useful.
 [explainshell]: https://explainshell.com/
 [teachyourselfcs]: https://teachyourselfcs.com/
 [competecode]: https://cses.fi/book/index.html
+[comppy]: https://github.com/gto76/python-cheatsheet/
+[bizpy]: https://pbpython.com/
+[fullstakpy]: https://www.fullstackpython.com/
 
 
 ## Statistical Methods and Machine Learning
