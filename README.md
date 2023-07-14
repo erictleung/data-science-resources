@@ -395,8 +395,6 @@ computational biology that I've found useful.
   works?][biostardeseq2]
 - [RNA-seqlopedia][rnauo] - Overview of RNA-seq and choices for a successful
   experiment.
-- [Mathematics of Bioinformatics - Theory, Practice, and Applications][mathbio]
-  (PDF)
 - [Theory Behind DESeq2][deseqtheory]
 
 [compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
@@ -409,7 +407,6 @@ computational biology that I've found useful.
 [harvardxbd2k]: http://rafalab.github.io/pages/harvardx.html
 [biostardeseq2]: https://www.biostars.org/p/127756/#127941
 [rnauo]: https://rnaseq.uoregon.edu/
-[mathbio]: https://archive.org/details/mathematics-of-bioinformatics
 [deseqtheory]: http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory-behind-deseq2
 
 
@@ -464,7 +461,6 @@ computational biology that I've found useful.
 - [Scientific Illustrations 101][scifigs] (PDF) - Tips on various topics for
   preparing scientific illustrations/figures using various tools.
 - [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
-- [UW Madison Media Lab][uwmedialab] - Tutorials for images and figures
 - [A Tour Through the Visualization Zoo][vizzoo]
 - [Adobe Illustrator for Scientists][ytillustrate] (YouTube playlist)
 - [WebGraphviz is Graphviz in the Browser][webgraphviz]
@@ -486,7 +482,6 @@ computational biology that I've found useful.
 [qualityfigs]: http://b.nanes.org/figures/
 [scifigs]: http://www.virology.wisc.edu/acp/tutorials/SciIllustration.pdf
 [bitesizeillustrator]: https://bitesizebio.com/8113/make-better-figures-faster-using-illustrator/
-[uwmedialab]: https://biochem.wisc.edu/medialab/tutorials-media-lab
 [vizzoo]: https://homes.cs.washington.edu/~jheer/files/zoo/
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
 [webgraphviz]: http://www.webgraphviz.com/
