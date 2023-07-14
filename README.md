@@ -238,7 +238,7 @@ computational biology that I've found useful.
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 [netsci]: http://www.network-science.org/
 [ona]: https://ona-book.org/
-[ana: https://github.com/briatte/awesome-network-analysis
+[ana]: https://github.com/briatte/awesome-network-analysis
 
 
 ## Algorithms and Data Structures
