@@ -457,8 +457,6 @@ Review and resource materials from around the internet for data science, with ap
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
-- [Scientific Illustrations 101][scifigs] (PDF) - Tips on various topics for
-  preparing scientific illustrations/figures using various tools.
 - [Make Better Figures Faster Using Illustrator][bitesizeillustrator]
 - [A Tour Through the Visualization Zoo][vizzoo]
 - [Adobe Illustrator for Scientists][ytillustrate] (YouTube playlist)
@@ -481,7 +479,6 @@ Review and resource materials from around the internet for data science, with ap
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
-[scifigs]: http://www.virology.wisc.edu/acp/tutorials/SciIllustration.pdf
 [bitesizeillustrator]: https://bitesizebio.com/8113/make-better-figures-faster-using-illustrator/
 [vizzoo]: https://homes.cs.washington.edu/~jheer/files/zoo/
 [ytillustrate]: https://www.youtube.com/playlist?list=PLhKpKEPEAauYIsyjnIN2YXztNo7BrZVxQ
