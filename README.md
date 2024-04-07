@@ -1,4 +1,4 @@
-# review
+# Data Science Readings and Resources
 
 [![Check Resources](https://github.com/erictleung/review/actions/workflows/test.yml/badge.svg)](https://github.com/erictleung/review/actions/workflows/test.yml)
 
