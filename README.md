@@ -14,6 +14,7 @@ Review and resource materials from around the internet for data science, with ap
   - [Specific Topics](#specific-topics)
   - [Interactive Articles](#interactive-articles)
   - [Data-related](#data-related)
+- [General mathematics](#general-mathematics)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
@@ -181,6 +182,13 @@ Review and resource materials from around the internet for data science, with ap
 [tidyverse]: https://www.tidyverse.org/
 [tidymodels]: https://www.tidymodels.org/
 [tidytext]: https://www.tidytextmining.com/
+
+## General mathematics
+
+> Resources generally related to learning and understand mathematical foundations
+
+- [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM/GIAM.pdf) - Gentle introduction to basic mathematical notation, set theory, writing mathematical proofs, and mathematical thinking.
+
 
 ## Linear Algebra
 
