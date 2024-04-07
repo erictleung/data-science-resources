@@ -475,6 +475,7 @@ Review and resource materials from around the internet for data science, with ap
   art
 - [Asciiflow][asciiflow] - GUI to easily create ASCII plain text diagrams
 - [Hand drawn feel to diagrams][shaky]
+- [10+ Guidelines for Better Tables in R](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/) - Notes on making better tables with accompanying R code
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
