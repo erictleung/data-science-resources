@@ -474,7 +474,7 @@ computational biology that I've found useful.
 - [Practical Typography][practicaltypo] by Matthew Butterick
 - [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
   art
-- [Asciiflow][asciiflow]
+- [Asciiflow][asciiflow] - GUI to easily create ASCII plain text diagrams
 - [Hand drawn feel to diagrams][shaky]
 
 [dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
