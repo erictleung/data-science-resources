@@ -306,7 +306,7 @@ Review and resource materials from around the internet for data science, with ap
 - [Competitive Programming Books][competecode]
 - [Comprehensive Python Cheatsheet][comppy]
 - [Practical Business Python][bizpy]
-- [Full Stack Python][fullstackpy] - Build, deploy and operate Python apps.
+- [Full Stack Python](https://www.fullstackpython.com/) - Build, deploy and operate Python apps.
 
 [prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
@@ -332,7 +332,6 @@ Review and resource materials from around the internet for data science, with ap
 [competecode]: https://cses.fi/book/index.html
 [comppy]: https://github.com/gto76/python-cheatsheet/
 [bizpy]: https://pbpython.com/
-[fullstakpy]: https://www.fullstackpython.com/
 
 
 ## Statistical Methods and Machine Learning
