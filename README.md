@@ -8,6 +8,7 @@ Review and resource materials from around the internet for data science, with ap
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Learning to Learn](#learning-to-learn)
 - [Statistics and Probability](#statistics-and-probability)
   - [General Resources](#general-resources)
   - [R Friendly Resources](#r-friendly-resources)
@@ -31,6 +32,13 @@ Review and resource materials from around the internet for data science, with ap
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Learning to learn
+
+> Resources and tips on how to self-learn and learn with others
+
+- [The Thinker's Guide to The Art of Socratic Questioning (PDF)](https://www.criticalthinking.org/TGS_files/SocraticQuestioning2006.pdf) - A checklist of questions to help facilitate directed discussions on topics.
+- [Questions for a Socratic Dialogue (PDF)](https://courses.cs.vt.edu/cs2104/Spring14McQuain/Notes/SocraticQ.pdf) - Nine types of questions that can be used to facilitate understanding.
 
 ## Statistics and Probability
 
