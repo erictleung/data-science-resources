@@ -67,8 +67,7 @@ Review and resource materials from around the internet for data science, with ap
   clinical research.
 - [Practical Data Science for Stats][peerjstats] - Collection of curated articles
   on practical data science.
-- [Statistics for Biologists][naturestats] - Nature collection of articles
-  on statistical analysis.'
+- [Statistics for Biologists](https://www.nature.com/collections/qghhqm) - Nature collection of articles on statistical analysis.
 - [Top Upvoted Questions on CrossValidated][topcrossvotes] - Great questions with
   great answers about topics in statistics and machine learning.
 - [Ordination Methods for Ecologists][ordokstate] - Resource of ordination
@@ -92,7 +91,6 @@ Review and resource materials from around the internet for data science, with ap
 [statsoft]: https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook
 [uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
-[naturestats]: https://www.nature.com/collections/qghhqm
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
 [probcheat]: https://github.com/wzchen/probability_cheatsheet
