@@ -2,7 +2,7 @@
 
 [![Check Resources](https://github.com/erictleung/review/actions/workflows/test.yml/badge.svg)](https://github.com/erictleung/review/actions/workflows/test.yml)
 
-Review and resource materials from around the internet for data science, with applications in bioinformatics and computational biology, that I've found useful.
+Review and resource materials from around the internet for data science, with applications in bioinformatics and computational biology and other domains, that I've found useful.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
