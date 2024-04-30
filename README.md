@@ -78,7 +78,6 @@ Review and resource materials from around the internet for data science, with ap
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [Modern Statistics for Modern Biologists][msmb]
-- [The Little Handbook of Statistical Practice][lhsp]
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
@@ -98,7 +97,6 @@ Review and resource materials from around the internet for data science, with ap
 [statshacks]: https://speakerdeck.com/jakevdp/statistics-for-hackers
 [moderndive]: https://moderndive.com/
 [msmb]: https://web.stanford.edu/class/bios221/book/
-[lhsp]: http://www.jerrydallal.com/LHSP/LHSP.HTM
 
 
 ### R Friendly Resources
