@@ -555,6 +555,7 @@ Review and resource materials from around the internet for data science, with ap
   about documentation.
 - [Amazon Web Services - A Practical Guide][awspractical]
 - [Amazon Web Services in Plain English][awsenglish]
+- [Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) - Simple but effective demonstration of using the right tool for the right amount of data.
 
 [swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
