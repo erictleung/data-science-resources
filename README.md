@@ -175,17 +175,15 @@ Review and resource materials from around the internet for data science, with ap
 
 ### Data-related
 
-- [Tidyverse][tidyverse] - Opinionated collection of R packages designed for
+- [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for
   data science
-- [Tidymodels][tidymodels] - Framework that is a collection of packages for
+- [Tidymodels](https://www.tidymodels.org/) - Framework that is a collection of packages for
   modeling and machine learning using tidyverse principles.
-- [Text Mining with R][tidytext] - A tidy approach to performing text analysis
+- [Text Mining with R](https://www.tidytextmining.com/) - A tidy approach to performing text analysis
   in R.
 - [Cross-industry standard process for data mining - Wikipedia](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - Open standard for common processes used in data mining, which can be applied to data science analyses.
+- [The Limits of Data By C. Thi Nguyen](https://issues.org/limits-of-data-nguyen/) - Emphasizes the importance of understanding the context of your data and that it inherently has biases.
 
-[tidyverse]: https://www.tidyverse.org/
-[tidymodels]: https://www.tidymodels.org/
-[tidytext]: https://www.tidytextmining.com/
 
 ## General mathematics
 
