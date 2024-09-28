@@ -51,7 +51,7 @@ Review and resource materials from around the internet for data science, with ap
 
 - [Handbook of Biological Statistics][hb-stats] and [R Supplement][hb-r] - Online
   set of notes from "Biological Data Analysis" course from University of Delaware.
-- [Engineering Statistics Handbook][niststats] - Handbook to help scientists
+- [Engineering Statistics Handbook][(https://web.archive.org/web/20240926214626/https://www.itl.nist.gov/div898/handbook/) - Handbook to help scientists
   and engineering incorporate statistical methods.
 - [Stat Trek][stattrek] - Teach yourself statistics.
 - [Online Statistics Education][onlinestats] - Developed by Rice University,
@@ -81,7 +81,6 @@ Review and resource materials from around the internet for data science, with ap
 
 [hb-stats]: http://www.biostathandbook.com/index.html
 [hb-r]: http://rcompanion.org/rcompanion/index.html
-[niststats]: https://itl.nist.gov/div898/handbook/index.htm
 [stattrek]: http://stattrek.com/
 [onlinestats]: http://onlinestatbook.com/2/index.html
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
