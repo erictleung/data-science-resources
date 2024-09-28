@@ -418,42 +418,6 @@ Review and resource materials from around the internet for data science, with ap
 [deseqtheory]: http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#theory-behind-deseq2
 
 
-## Domain Knowledge
-
-> Domain knowledge is valid knowledge used to refer to an area of human
-> endeavour, an autonomous computer activity, or other specialized discipline
->
-> — [Wikipedia][domain-wiki]
-
-- [Immunology][armando] - Basic immunology by Armando Hasudungan.
-- [Immune System][khan] - Khan Academy Medicine on the immune system.
-- [Introduction to Flow Cytometry][flow] - Web-based training on how flow
-  cytometry works and how to analyze and interpret its results.
-- [Conditional Knockout Mouse Models][condknock] - Explains basics of
-  conditional mouse models and compares to traditional mouse knockouts.
-- [Animal Models of Anxiety: A Beginner's Guide][anxiety-model]
-- [The Microbiome Podcast][micropods] - By the American Microbiome Institute
-  (AMI)
-- Various Pronunciation Guide of Biological Latin
-  - [Pronunciation of Biological Latin][genbiolatin] - Including scientific
-    names of plants and animals
-  - [Bacterial Pathogen Pronunciation Station][micropronounce]
-  - [Pronunciation Guide to Microorganisms from University of Minnesota][dummiespronounce] (PDF)
-- [The Human Microbiome Project Collection - PLOS Collections][ploshmp]
-
-[domain-wiki]: https://en.wikipedia.org/wiki/Domain_knowledge
-[armando]: https://www.youtube.com/playlist?list=PLAB2FC119A2CA3C57
-[khan]: https://www.youtube.com/playlist?list=PLbKSbFnKYVY0PCLmVfIsAdgO1KVjYlKFz
-[flow]: http://www.bdbiosciences.com/us/support/s/itf_launch
-[condknock]: https://www.genetargeting.com/conditional-knockout-mouse-models/
-[anxiety-model]: https://mazeengineers.com/animal-models-of-anxiety/
-[micropods]: http://www.microbiomeinstitute.org/podcast/
-[genbiolatin]: http://capewest.ca/pron.html
-[micropronounce]: https://www.atsu.edu/faculty/chamberlain/website/studio.htm
-[dummiespronounce]: http://www.d.umn.edu/~rhicks/genmicro/Pronunciation%20Guide.pdf
-[ploshmp]: https://collections.plos.org/hmp
-
-
 ## Data Visualization and Making Figures
 
 > Data visualization or data visualisation is viewed by many disciplines as a
