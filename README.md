@@ -270,7 +270,7 @@ Review and resource materials from around the internet for data science, with ap
   solving.
 - [VisuAlgo][visualgo] - Visualizing data structures and algorithms through
   animation.
-- [Discrete Mathematics: An Open Introduction][discrete]
+- [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi4.html)
 
 [alg-wiki]: https://en.wikipedia.org/wiki/Algorithm
 [struc-wiki]: https://en.wikipedia.org/wiki/Data_structure
@@ -278,7 +278,6 @@ Review and resource materials from around the internet for data science, with ap
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 [rosa]: http://rosalind.info/
 [visualgo]: https://visualgo.net/en
-[discrete]: http://discretetext.oscarlevin.com/dmoi/dmoi.html
 
 
 ## Programming
