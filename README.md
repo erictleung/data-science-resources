@@ -62,7 +62,7 @@ Review and resource materials from around the internet for data science, with ap
 - [STAT 505 Applied Multivariate Statistical Analysis][pennstat] - Penn State
   Eberly College of Science course.
 - [StatSoft Electronic Statistics Textbook][statsoft]
-- [UW Summer Institutes Archive Material][uwbiostat] - Various learning
+- [UW Summer Institutes Archive Material](https://si.biostat.washington.edu/archives) - Various learning
   material in statistics, data analysis, machine learning, genetics, and
   clinical research.
 - [Practical Data Science for Stats][peerjstats] - Collection of curated articles
@@ -88,7 +88,6 @@ Review and resource materials from around the internet for data science, with ap
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
 [statsoft]: https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook
-[uwbiostat]: https://www.biostat.washington.edu/suminst/archives
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
