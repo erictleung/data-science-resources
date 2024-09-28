@@ -358,7 +358,6 @@ Review and resource materials from around the internet for data science, with ap
   how tSNE behaves in order to use it more effectively.
 - [Accurately Measuring Model Prediction Error][modelerr]
 - [Understanding the Bias-Variance Tradeoff][biasvariance]
-- [Support Vector Machines (SVMs)][svms]
 - [Random Forests][rfs] - Creator Leo Breiman's site on random forests.
 - [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs.
 - [Learning Math for Machine Learning by Vincent Chen][learnmath]
@@ -373,7 +372,6 @@ Review and resource materials from around the internet for data science, with ap
 [tsne]: http://distill.pub/2016/misread-tsne/
 [modelerr]: http://scott.fortmann-roe.com/docs/MeasuringError.html
 [biasvariance]: http://scott.fortmann-roe.com/docs/BiasVariance.html
-[svms]: http://svms.org/
 [rfs]: https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [googleml]: https://developers.google.com/machine-learning/crash-course/
 [learnmath]: https://blog.ycombinator.com/learning-math-for-machine-learning/
@@ -439,7 +437,7 @@ Review and resource materials from around the internet for data science, with ap
   data.
 - [Beautiful plotting in R: A ggplot2 cheatsheet][zevrossggplot2]
 - [Effectively Using Matplotlib][effectivemat]
-- [Fundamentals of Data Visualization][fundamentaldataviz] by Claus O. Wilke
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Practical Typography][practicaltypo] by Matthew Butterick
 - [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
   art
@@ -460,7 +458,6 @@ Review and resource materials from around the internet for data science, with ap
 [dattoviz]: https://www.data-to-viz.com/
 [zevrossggplot2]: https://web.archive.org/web/20220501085848/http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 [effectivemat]: http://pbpython.com/effective-matplotlib.html
-[fundamentaldataviz]: https://serialmentor.com/dataviz/
 [practicaltypo]: https://practicaltypography.com
 [ditaa]: https://github.com/stathissideris/ditaa
 [asciiflow]: http://asciiflow.com/
