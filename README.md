@@ -340,6 +340,13 @@ Review and resource materials from around the internet for data science, with ap
 [bizpy]: https://pbpython.com/
 
 
+## Structural Query Language (SQL)
+
+- [Select Star SQL](https://selectstarsql.com/) - Interactive online book with a non-toy dataset to learn SQL.
+- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Tutorials learning SQL step-by-step by function.
+- [SQL Tutorial](https://www.sqltutorial.org/) - Quick access tutorials on SQL.
+
+
 ## Statistical Methods and Machine Learning
 
 > Machine learning is the subfield of computer science that "gives computers
