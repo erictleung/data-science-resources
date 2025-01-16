@@ -123,8 +123,8 @@ Review and resource materials from around the internet for data science, with ap
 
 ### Specific Topics
 
-- [P-values, False Discovery Rate (FDR) and q-values][pq-values]
-- [FAQ: How do I interpret odds ratio in logistic regression?][logit]
+- [P-values, False Discovery Rate (FDR) and q-values](http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx)
+- [FAQ: How do I interpret odds ratio in logistic regression?](http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm)
 - [Standard error of the mean of a sample binomial distribution][stderrbinom]
 - [Common Probability Distributions: The Data Scientist's Crib
   Sheet][cribsheet] - Data scientists have hundreds of probability
@@ -148,10 +148,8 @@ Review and resource materials from around the internet for data science, with ap
 - [Common Statistical Tests are Linear Models (Or: How to Teach Stats)][statslinmod]
 - [The Permutation Test - A Visual Explanation of Statistical Testing][permtest]
 - [Visualising Residuals][vizres] - Using R and ggplot2.
+- [Forecasting: Principles and Practice, 3rd Ed](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
 
-[stats-wiki]: https://en.wikipedia.org/wiki/Statistics
-[pq-values]: http://www.nonlinear.com/support/progenesis/comet/faq/v2.0/pq-values.aspx
-[logit]: http://www.ats.ucla.edu/stat/mult_pkg/faq/general/odds_ratio.htm
 [stderrbinom]: http://stats.stackexchange.com/a/221102/132399
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
