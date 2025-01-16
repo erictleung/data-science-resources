@@ -45,7 +45,7 @@ Review and resource materials from around the internet for data science, with ap
 > Statistics is the study of the collection, analysis, interpretation,
 > presentation, and organization of data.
 >
-> — [Wikipedia][stats-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Statistics)
 
 ### General Resources
 
@@ -198,7 +198,7 @@ Review and resource materials from around the internet for data science, with ap
 > Linear algebra is the branch of mathematics concerning vector spaces and
 > linear mappings between such spaces.
 >
-> — [Wikipedia][la-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Linear_algebra)
 
 - [Essence of Linear Algebra][essence] - Excellent, short overview of linear
   algebra concepts that help develop intuition on the matter.
@@ -212,7 +212,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Linear Algebra Review and Reference - Kolter and Do (PDF)][cs229lin]
 - [Immersive Linear Algebra][immersivelinalg]
 
-[la-wiki]: https://en.wikipedia.org/wiki/Linear_algebra
 [essence]: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [linalgmit]: http://bit.ly/2cvRwMe
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
@@ -231,7 +230,7 @@ Review and resource materials from around the internet for data science, with ap
 > actors represented by *nodes* (or *vertices*) and the connections between the
 > elements or actors as *links* (or *edges*).
 >
-> — [Wikipedia][nets-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Network_science)
 
 - [Network Science Book][netbook] - Online book with visualizations and
   interactive tools about network science by Albert-László Barabási.
@@ -244,7 +243,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Awesome Network Analysis][ana] - Curated awesome list of network analysis
   resources
 
-[nets-wiki]: https://en.wikipedia.org/wiki/Network_science
 [netbook]: http://barabasi.com/networksciencebook/
 [graphherke]: https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd
 [netsci]: http://www.network-science.org/
@@ -257,13 +255,13 @@ Review and resource materials from around the internet for data science, with ap
 > In mathematics and computer science, an algorithm is a self-contained
 > step-by-step set of operations to be performed.
 >
-> — [Wikipedia][alg-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 >
 > In computer science, a data structure is a particular way of organizing
 > and storing data in a computer so that it can be accessed and modified
 > efficiently.
 >
-> — [Wikipedia][struc-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 
 - [Bioinformatic Algorithms][bioalg] - Algorithm lectures by Phillip Compeau
   and Pavel Pevzner.
@@ -275,8 +273,6 @@ Review and resource materials from around the internet for data science, with ap
   animation.
 - [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi4.html)
 
-[alg-wiki]: https://en.wikipedia.org/wiki/Algorithm
-[struc-wiki]: https://en.wikipedia.org/wiki/Data_structure
 [bioalg]: http://bioinformaticsalgorithms.com/videos.htm
 [benalg]: https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA
 [rosa]: http://rosalind.info/
@@ -289,7 +285,7 @@ Review and resource materials from around the internet for data science, with ap
 > from an original formulation of a computing problem to executable computer
 > programs.
 >
-> — [Wikipedia][prog-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)
 
 - [DevDocs][devdocs] - API documentation browser.
 - [Hyperpolyglot][polyglot] - Commonly used features in programming languages
@@ -319,7 +315,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Practical Business Python][bizpy]
 - [Full Stack Python](https://www.fullstackpython.com/) - Build, deploy and operate Python apps.
 
-[prog-wiki]: https://en.wikipedia.org/wiki/Computer_programming
 [devdocs]: https://devdocs.io/
 [polyglot]: http://hyperpolyglot.org/
 [xiny]: https://learnxinyminutes.com/
@@ -350,7 +345,7 @@ Review and resource materials from around the internet for data science, with ap
 > Machine learning is the subfield of computer science that "gives computers
 > the ability to learn without being explicitly programmed".
 >
-> — [Wikipedia][ml-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 
 - [Naive Bayes Part 1][nb1] and [Naive Bayes Part 2][nb2]
 - [How to choose a predictive model after k-fold cross-validation?][cvFold]
@@ -365,7 +360,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Learning Math for Machine Learning by Vincent Chen][learnmath]
 - [Calculus Made Easy][easycalc] (PDF)
 
-[ml-wiki]: https://en.wikipedia.org/wiki/Machine_learning
 [nb1]: https://youtu.be/XcwH9JGfZOU
 [nb2]: https://youtu.be/k2diLn5Nqbs
 [cvFold]: http://stats.stackexchange.com/a/52277/132399
@@ -387,7 +381,7 @@ Review and resource materials from around the internet for data science, with ap
 > computational simulation techniques to the study of biological, behavior, and
 > social systems.
 >
-> — [Wikipedia][compbio-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Computational_biology)
 
 - [RPKM measure is inconsistent among samples][rpkm]
 - [RPKM-TPM.r][rpkm-tpm.r] - R script to show RPKM vs TPM
@@ -404,7 +398,6 @@ Review and resource materials from around the internet for data science, with ap
   experiment.
 - [Theory Behind DESeq2][deseqtheory]
 
-[compbio-wiki]: https://en.wikipedia.org/wiki/Computational_biology
 [rpkm]: http://blog.nextgenetics.net/?e=51
 [rpkm-tpm.r]: https://gist.github.com/johnstantongeddes/6925426
 [statquest]: https://youtu.be/TTUrtCY2k-w
@@ -425,7 +418,7 @@ Review and resource materials from around the internet for data science, with ap
 > abstracted in some schematic form, including attributes or variables for the
 > units of information".
 >
-> — [Wikipedia][dataviz-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Data_visualization)
 
 - [A Compendium of Clean Graphs in R][cleangraphs]
 - [How to Create Publication-Quality Figures][qualityfigs]
@@ -449,7 +442,6 @@ Review and resource materials from around the internet for data science, with ap
 - [The Design Philosophy of Great Tables (2024)](https://posit-dev.github.io/great-tables/blog/design-philosophy/) - Design philosophy behind the the [great-tables](https://github.com/posit-dev/great-tables) Python package to generate effect tables of data
 - [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Opinionated essay about good and bad practices in data visualization with examples.
 
-[dataviz-wiki]: https://en.wikipedia.org/wiki/Data_visualization
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
 [bitesizeillustrator]: https://bitesizebio.com/8113/make-better-figures-faster-using-illustrator/
@@ -502,7 +494,7 @@ Review and resource materials from around the internet for data science, with ap
 > Software engineering is the application of engineering to the development of
 > software in a systematic method.
 >
-> — [Wikipedia][swe-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Software_engineering)
 
 - ["The Guide to the Software Engineering Body of Knowledge"][swebook]
 - [Software Engineering - Ian Sommerville][sommerville]
@@ -516,7 +508,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Amazon Web Services in Plain English][awsenglish]
 - [Command-line Tools can be 235x Faster than your Hadoop Cluster](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) - Simple but effective demonstration of using the right tool for the right amount of data.
 
-[swe-wiki]: https://en.wikipedia.org/wiki/Software_engineering
 [swebook]: https://www.computer.org/web/swebok
 [sommerville]: http://iansommerville.com/software-engineering-book/
 [unixide]: https://sanctum.geek.nz/arabesque/series/unix-as-ide/
@@ -532,7 +523,7 @@ Review and resource materials from around the internet for data science, with ap
 > Reproducibility is the ability to get the same research results using the
 > raw data and computer programs provided by the researchers.
 >
-> — [Wikipedia][repro-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/Reproducibility)
 
 - [A statistical definition for reproducibility and replicability][reprodef]
 - [`scifigure`: Visualize Reproducibility and Replicability in a Comparison
@@ -543,7 +534,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Docker for Beginners][dockerbegin] - By Prakhar Srivastav.
 - [Riffomonas: Reproducible Research][riff] - By Patrick D. Schloss.
 
-[repro-wiki]: https://en.wikipedia.org/wiki/Reproducibility
 [reprodef]: https://doi.org/10.1101/066803
 [scifigure]: https://cran.r-project.org/package=scifigure
 [reproexpect]: https://doi.org/10.1177/1745691616646366
@@ -559,7 +549,7 @@ Review and resource materials from around the internet for data science, with ap
 > set of abilities: personal effectiveness, interaction skills, and
 > intercession skills.
 >
-> — [Wikipedia][people-wiki]
+> — [Wikipedia](https://en.wikipedia.org/wiki/People_skills)
 
 - [How to ask good questions][questionevans] - By Julia Evans.
 - [How To Ask Questions The Smart Way][raymondquestions] - By Eric Raymond.
@@ -579,7 +569,6 @@ Review and resource materials from around the internet for data science, with ap
 - [Write the Paper First][writepaper] - Argues that "writing now is a favor to yourself"
   and the benefits of clear writing for organizing thoughts early.
 
-[people-wiki]: https://en.wikipedia.org/wiki/People_skills
 [questionevans]: https://jvns.ca/blog/good-questions/
 [raymondquestions]: http://www.catb.org/~esr/faqs/smart-questions.html
 [teachingtech]: http://teachtogether.tech/
