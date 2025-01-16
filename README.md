@@ -25,7 +25,7 @@ Review and resource materials from around the internet for data science, with ap
 - [Computational Biology](#computational-biology)
 - [Domain Knowledge](#domain-knowledge)
 - [Data Visualization and Making Figures](#data-visualization-and-making-figures)
-- [Should-Read Bioinformatics Papers](#should-read-bioinformatics-papers)
+- [Should-Read Data Science Papers](#should-read-data-science-papers)
 - [Software Engineering](#software-engineering)
 - [Reproducible Science](#reproducible-science)
 - [People Skills and Communication](#people-skills-and-communication)
@@ -466,35 +466,24 @@ Review and resource materials from around the internet for data science, with ap
 [shaky]: http://shaky.github.bushong.net/
 
 
-## Should-Read Bioinformatics Papers
+## Should-Read Data Science Papers
 
-> Computational biology and bioinformatics papers to cover the breadth of the
-> field.
+> Data science, computational biology, and bioinformatics papers to cover the breadth of their fields.
 
-- [How to read a research paper][vsf] - One question to ask when reading papers.
-- [Zhang Lab Recommendations][zhang]
-- [The Leek group guide to genomics papers][jtleek]
-- ["Foundations of Computational and Systems Biology" Readings][mitocw] - MIT
-  OCW course readings.
-- [Question: What Are The Classic Papers In Bioinformatics?][biostarq]
-- [Best Academic Papers About the Microbiome][sprague]
-- [Staying Current in Bioinformatics & Genomics: 2017 Edition][ggdcurrent] by Stephen Turner
-- [RNA-Seq Analysis, Differential Gene Expression, and Functional Enrichment Analysis][diytranscriptomics] (Recent removal of readings page, but course overall is valuable)
-
-[vsf]: http://www.theexclusive.org/2017/11/read-a-paper.html
-[zhang]: http://zhanglab.ccmb.med.umich.edu/literature/
-[jtleek]: https://github.com/jtleek/genomicspapers
-[mitocw]: https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/
-[biostarq]: https://www.biostars.org/p/3204/
-[sprague]: http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/
-[ggdcurrent]: https://gettinggeneticsdone.blogspot.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html
-[diytranscriptomics]: http://diytranscriptomics.com/
+- [applied-ml](https://github.com/eugeneyan/applied-ml) by Eugene Yan - Curated papers, articles, and blogs on data science and machine learning in production.
+- [List of important publications in data science - Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_data_science)
+- [How to read a research paper](http://www.theexclusive.org/2017/11/read-a-paper.html) - One question to ask when reading papers.
+- [Zhang Lab Recommendations](http://zhanglab.ccmb.med.umich.edu/literature/)
+- [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers)
+- ["Foundations of Computational and Systems Biology" Readings](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/readings/) - MIT OCW course readings.
+- [Question: What Are The Classic Papers In Bioinformatics?](https://www.biostars.org/p/3204/)
+- [Best Academic Papers About the Microbiome](http://www.richardsprague.com/note/2017/10/16/best-academic-papers-about-the-microbiome/)
+- [Staying Current in Bioinformatics & Genomics: 2017 Edition](https://gettinggeneticsdone.blogspot.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html) by Stephen Turner
+- [RNA-Seq Analysis, Differential Gene Expression, and Functional Enrichment Analysis](http://diytranscriptomics.com/) (Recent removal of readings page, but course overall is valuable)
 
 > General knowledge mapping and exploration tools
 
-- [Inciteful][inciteful] - Tools to help you accelerate your research
-
-[inciteful]: https://inciteful.xyz/
+- [Inciteful](https://inciteful.xyz/) - Tools to help you accelerate your research
 
 
 ## Software Engineering
