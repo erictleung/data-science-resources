@@ -113,6 +113,14 @@ Review and resource materials from around the internet for data science, with ap
 [appliedlinreg]: https://web.archive.org/web/20181222115225/http://www.stat.columbia.edu/~martin/W2024/W2024.html
 
 
+### Python Friendly Resources
+
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
+- [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
+- [Think Stats 2E](https://greenteapress.com/wp/think-stats-2e/) by Allen B. Downey
+
+
 ### Specific Topics
 
 - [P-values, False Discovery Rate (FDR) and q-values][pq-values]
