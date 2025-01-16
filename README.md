@@ -20,6 +20,7 @@ Review and resource materials from around the internet for data science, with ap
 - [Network Science](#network-science)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Programming](#programming)
+- [Structural Query Language (SQL](#structural-query-language-sql)
 - [Statistical Methods and Machine Learning](#statistical-methods-and-machine-learning)
 - [Computational Biology](#computational-biology)
 - [Domain Knowledge](#domain-knowledge)
