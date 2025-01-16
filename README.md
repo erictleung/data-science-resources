@@ -181,6 +181,7 @@ Review and resource materials from around the internet for data science, with ap
   in R.
 - [Cross-industry standard process for data mining - Wikipedia](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - Open standard for common processes used in data mining, which can be applied to data science analyses.
 - [The Limits of Data By C. Thi Nguyen](https://issues.org/limits-of-data-nguyen/) - Emphasizes the importance of understanding the context of your data and that it inherently has biases.
+- [Build a Career in Data Science](https://bestbook.cool/) by Emily Robinson and Jacquelie Nolis - A guide on landing your first data science job and being a valued senior employee, rather than on just the technical details of how regression works. The authors also have [an accompanying podcast](https://podcast.bestbook.cool/).
 
 
 ## General mathematics
