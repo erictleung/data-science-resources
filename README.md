@@ -49,13 +49,10 @@ Review and resource materials from around the internet for data science, with ap
 
 ### General Resources
 
-- [Handbook of Biological Statistics][hb-stats] and [R Supplement][hb-r] - Online
-  set of notes from "Biological Data Analysis" course from University of Delaware.
-- [Engineering Statistics Handbook](https://web.archive.org/web/20240924073012fw_/https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm) - Handbook to help scientists
-  and engineering incorporate statistical methods.
-- [Stat Trek][stattrek] - Teach yourself statistics.
-- [Online Statistics Education][onlinestats] - Developed by Rice University,
-  University of Houston Clear Lake, and Tufts University.
+- [Handbook of Biological Statistics](http://www.biostathandbook.com/index.html) and [R Supplement](http://rcompanion.org/rcompanion/index.html) - Online set of notes from "Biological Data Analysis" course from University of Delaware.
+- [Engineering Statistics Handbook](https://web.archive.org/web/20240924073012fw_/https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm) - Handbook to help scientists and engineering incorporate statistical methods.
+- [Stat Trek](http://stattrek.com/) - Teach yourself statistics.
+- [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University, University of Houston Clear Lake, and Tufts University.
 - [BS704 Probability][buprob] - Boston University course on probability.
 - [StatQuest][statquest] - Series of videos on miscellaneous complex topics
   such as p-values, principle component analysis (PCA), and R-squared.
@@ -78,11 +75,8 @@ Review and resource materials from around the internet for data science, with ap
   slip-ups committed by scientists every day.
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [Modern Statistics for Modern Biologists][msmb]
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) - With editions in R and Python.
 
-[hb-stats]: http://www.biostathandbook.com/index.html
-[hb-r]: http://rcompanion.org/rcompanion/index.html
-[stattrek]: http://stattrek.com/
-[onlinestats]: http://onlinestatbook.com/2/index.html
 [buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
