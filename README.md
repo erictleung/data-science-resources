@@ -517,21 +517,12 @@ Review and resource materials from around the internet for data science, with ap
 >
 > — [Wikipedia](https://en.wikipedia.org/wiki/Reproducibility)
 
-- [A statistical definition for reproducibility and replicability][reprodef]
-- [`scifigure`: Visualize Reproducibility and Replicability in a Comparison
-  of Scientific Studies][scifigure] (R package)
-- [What should Researchers Expect When They Replicate Studies? A Statistical
-  View of Replicability in Psychological Science][reproexpect]
-- [A Guide to Reproducible Code in Ecology and Evolution][ecoguide] (PDF)
-- [Docker for Beginners][dockerbegin] - By Prakhar Srivastav.
-- [Riffomonas: Reproducible Research][riff] - By Patrick D. Schloss.
-
-[reprodef]: https://doi.org/10.1101/066803
-[scifigure]: https://cran.r-project.org/package=scifigure
-[reproexpect]: https://doi.org/10.1177/1745691616646366
-[ecoguide]: http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
-[dockerbegin]: https://docker-curriculum.com/
-[riff]: https://www.youtube.com/playlist?list=PLmNrK_nkqBpL0d2E26TqPkmTAfelYKbQX
+- [A statistical definition for reproducibility and replicability](https://doi.org/10.1101/066803)
+- [`scifigure`: Visualize Reproducibility and Replicability in a Comparison of Scientific Studies](https://cran.r-project.org/package=scifigure) (R package)
+- [What should Researchers Expect When They Replicate Studies? A Statistical View of Replicability in Psychological Science](https://doi.org/10.1177/1745691616646366)
+- [A Guide to Reproducible Code in Ecology and Evolution](https://archive.org/details/bes-guide-reproducible-code/mode/2up) (PDF)
+- [Docker for Beginners](https://docker-curriculum.com/) - By Prakhar Srivastav.
+- [Riffomonas: Reproducible Research](https://www.youtube.com/playlist?list=PLmNrK_nkqBpL0d2E26TqPkmTAfelYKbQX) - By Patrick D. Schloss.
 
 
 ## People Skills and Communication
