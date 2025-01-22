@@ -94,18 +94,11 @@ Review and resource materials from around the internet for data science, with ap
 
 ### R Friendly Resources
 
-- [Quick-R][quickr] - Quick reference to statistical methods using R.
-- [ModernDive - Statistical Inference via Data Science][moderndive]
-- [UCLA IDRE Statistics][idre] - Examples of statistical analyses using R, SAS,
-  SPSS, and Stata.
-- [r-statistics.so][rstatsco] - Educational resource for machine learning and
-  statistical computing in R.
-- [W2024 Applied Linear Regression Analysis][appliedlinreg]
-
-[quickr]: http://www.statmethods.net/
-[idre]: http://www.ats.ucla.edu/stat/
-[rstatsco]: http://r-statistics.co/
-[appliedlinreg]: https://web.archive.org/web/20181222115225/http://www.stat.columbia.edu/~martin/W2024/W2024.html
+- [Quick-R](http://www.statmethods.net/) - Quick reference to statistical methods using R.
+- [Statistical Inference via Data Science: A ModernDive into R and the Tidyverse (Second Edition)](https://moderndive.com/v2/) - Statistical analyses using modern tools in R and tidyverse.
+- [UCLA IDRE Statistics](http://www.ats.ucla.edu/stat/) - Examples of statistical analyses using R, SAS, SPSS, and Stata.
+- [r-statistics.so](http://r-statistics.co/) - Educational resource for machine learning and statistical computing in R.
+- [W2024 Applied Linear Regression Analysis](https://web.archive.org/web/20181222115225/http://www.stat.columbia.edu/~martin/W2024/W2024.html)
 
 
 ### Python Friendly Resources
