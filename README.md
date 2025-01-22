@@ -305,8 +305,6 @@ Review and resource materials from around the internet for data science, with ap
 - [The Pragmatic Programmer Quick Reference][pragmaticcode]
 - [Bash Pitfalls][bashpits] - Common errors that Bash programmers make, along
   with [Bash FAQs][bashfaqs] and general [Bash Programming][bashprogramming].
-- [Select Star SQL][selectsql] - Interactive book which aims to be the best
-  place on the internet for learning SQL.
 - [Tech Dev Guide][techguide] - By Google.
 - [How to C in 2016][c2016]
 - [explainshell][explainshell] - See help text that matches each argument.
@@ -331,7 +329,6 @@ Review and resource materials from around the internet for data science, with ap
 [bashpits]: http://mywiki.wooledge.org/BashPitfalls
 [bashprogramming]: https://mywiki.wooledge.org/BashProgramming
 [bashfaqs]: https://mywiki.wooledge.org/BashFAQ
-[selectsql]: https://selectstarsql.com/
 [techguide]: https://techdevguide.withgoogle.com/
 [c2016]: https://matt.sh/howto-c
 [explainshell]: https://explainshell.com/
@@ -445,7 +442,7 @@ Review and resource materials from around the internet for data science, with ap
 - [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
   art
 - [Asciiflow][asciiflow] - GUI to easily create ASCII plain text diagrams
-- [Hand drawn feel to diagrams][shaky]
+- [Hand drawn feel to diagrams](https://sankhs.com/shakydraw/)
 - [10+ Guidelines for Better Tables in R (2020)](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/) - Notes on making better tables with accompanying R code
 - [The Design Philosophy of Great Tables (2024)](https://posit-dev.github.io/great-tables/blog/design-philosophy/) - Design philosophy behind the the [great-tables](https://github.com/posit-dev/great-tables) Python package to generate effect tables of data
 - [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Opinionated essay about good and bad practices in data visualization with examples.
@@ -463,8 +460,6 @@ Review and resource materials from around the internet for data science, with ap
 [practicaltypo]: https://practicaltypography.com
 [ditaa]: https://github.com/stathissideris/ditaa
 [asciiflow]: http://asciiflow.com/
-[shaky]: http://shaky.github.bushong.net/
-
 
 ## Should-Read Data Science Papers
 
