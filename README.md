@@ -2,7 +2,7 @@
 
 [![Check Resources](https://github.com/erictleung/review/actions/workflows/test.yml/badge.svg)](https://github.com/erictleung/review/actions/workflows/test.yml)
 
-Review and resource materials from around the internet for data science, with applications in bioinformatics and computational biology and other domains, that I've found useful.
+Curated resource materials from around the internet for data science, with applications in bioinformatics and computational biology and other domains, that I've found useful.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -15,6 +15,7 @@ Review and resource materials from around the internet for data science, with ap
   - [Specific Topics](#specific-topics)
   - [Interactive Articles](#interactive-articles)
   - [Data-related](#data-related)
+- [Datasets](#datasets)
 - [General mathematics](#general-mathematics)
 - [Linear Algebra](#linear-algebra)
 - [Network Science](#network-science)
@@ -178,6 +179,16 @@ Review and resource materials from around the internet for data science, with ap
 - [Build a Career in Data Science](https://bestbook.cool/) by Emily Robinson and Jacquelie Nolis - A guide on landing your first data science job and being a valued senior employee, rather than on just the technical details of how regression works. The authors also have [an accompanying podcast](https://podcast.bestbook.cool/).
 - [ExcelDemy](https://www.exceldemy.com/) - Excel courses, tutorials, and templates.
 - [Excel Easy](https://www.excel-easy.com/) - Excel tutorials and tips on functions and more.
+
+
+## Datasets
+
+> Biased toward real-world datasets that can be used to practice data science skills.
+
+- [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) - Weekly real-world datasets for the Data Science Learning Community to practice their data skills and data visualizations for collective learning.
+- [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/) - Download, graph, and track 825,000 US and international time series from 114 sources for economic data since 1991.
+- [Databases, Tables & Calculators from the U.S. Bureau of Labor Statistics](https://www.bls.gov/data/)
 
 
 ## General mathematics
