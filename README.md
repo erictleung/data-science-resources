@@ -443,13 +443,14 @@ Curated resource materials from around the internet for data science, with appli
 - [Effectively Using Matplotlib][effectivemat]
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 - [Practical Typography][practicaltypo] by Matthew Butterick
-- [ditaa][ditaa] - Small command-line utility to convert diagrams using ASCII
+- [ditaa](https://github.com/stathissideris/ditaa) - Small command-line utility to convert diagrams using ASCII
   art
-- [Asciiflow][asciiflow] - GUI to easily create ASCII plain text diagrams
+- [Asciiflow](http://asciiflow.com/) - GUI to easily create ASCII plain text diagrams
 - [Hand drawn feel to diagrams](https://sankhs.com/shakydraw/)
 - [10+ Guidelines for Better Tables in R (2020)](https://themockup.blog/posts/2020-09-04-10-table-rules-in-r/) - Notes on making better tables with accompanying R code
 - [The Design Philosophy of Great Tables (2024)](https://posit-dev.github.io/great-tables/blog/design-philosophy/) - Design philosophy behind the the [great-tables](https://github.com/posit-dev/great-tables) Python package to generate effect tables of data
 - [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Opinionated essay about good and bad practices in data visualization with examples.
+- [Visual Analysis Best Practices: A Guidebook - Tableau](https://www.tableau.com/learn/whitepapers/tableau-visual-guidebook?signin=c6cf87638b3864d1c393ffafb79ae10c) - List of techniques to turn data visualizations from good to great
 
 [cleangraphs]: http://shinyapps.org/apps/RGraphCompendium/index.php
 [qualityfigs]: http://b.nanes.org/figures/
@@ -462,8 +463,6 @@ Curated resource materials from around the internet for data science, with appli
 [zevrossggplot2]: https://web.archive.org/web/20220501085848/http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
 [effectivemat]: http://pbpython.com/effective-matplotlib.html
 [practicaltypo]: https://practicaltypography.com
-[ditaa]: https://github.com/stathissideris/ditaa
-[asciiflow]: http://asciiflow.com/
 
 ## Should-Read Data Science Papers
 
