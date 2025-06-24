@@ -127,7 +127,7 @@ Curated resource materials from around the internet for data science, with appli
 - [Univariate Distribution Relationships][univardist] - An interactive, flow
   chart diagram showing the relationships between variate univariate
   distributions.
-- [First Internet Gallery of Statistics Jokes][ramseyerjokes]
+- [First Internet Gallery of Statistics Jokes](https://about.illinoisstate.edu/gcramsey/first-internet-gallery-of-statistics-jokes/)
 - [PLoS's Ten Simple Rules for Effective Statistical Practice][ploseffective]
 - [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
 - [Review of Probability Theory - Maleki and Do][cs229prob] (PDF)
@@ -144,7 +144,6 @@ Curated resource materials from around the internet for data science, with appli
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 [warnexp]: http://norvig.com/experiment-design.html
 [univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
-[ramseyerjokes]: http://my.ilstu.edu/~gcramsey/Gallery.html
 [ploseffective]: https://doi.org/10.1371/journal.pcbi.1004961
 [commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
 [cs229prob]: http://cs229.stanford.edu/section/cs229-prob.pdf
