@@ -124,9 +124,7 @@ Curated resource materials from around the internet for data science, with appli
 - [Warning Signs in Experimental Design and Interpretation][warnexp] - Nine
   common warning signs in experimental design and nine common warning signs in
   interpretation of experiments by Peter Norvig.
-- [Univariate Distribution Relationships][univardist] - An interactive, flow
-  chart diagram showing the relationships between variate univariate
-  distributions.
+- [Univariate Distribution Relationships](http://archive.today/2020.05.19-101733/http://www.math.wm.edu/~leemis/chart/UDR/UDR.html) - An interactive, flow chart diagram showing the relationships between variate univariate distributions.
 - [First Internet Gallery of Statistics Jokes](https://about.illinoisstate.edu/gcramsey/first-internet-gallery-of-statistics-jokes/)
 - [PLoS's Ten Simple Rules for Effective Statistical Practice][ploseffective]
 - [Common Statistical Pitfalls in Basic Science Research][commonpitfalls]
@@ -143,7 +141,6 @@ Curated resource materials from around the internet for data science, with appli
 [cribsheet]: http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet
 [chooseTest]: http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
 [warnexp]: http://norvig.com/experiment-design.html
-[univardist]: http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 [ploseffective]: https://doi.org/10.1371/journal.pcbi.1004961
 [commonpitfalls]: https://doi.org/10.1161/JAHA.116.004142
 [cs229prob]: http://cs229.stanford.edu/section/cs229-prob.pdf
