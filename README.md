@@ -55,7 +55,7 @@ Curated resource materials from around the internet for data science, with appli
 - [Engineering Statistics Handbook](https://web.archive.org/web/20240924073012fw_/https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm) - Handbook to help scientists and engineering incorporate statistical methods.
 - [Stat Trek](http://stattrek.com/) - Teach yourself statistics.
 - [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University, University of Houston Clear Lake, and Tufts University.
-- [BS704 Probability][buprob] - Boston University course on probability.
+- [BS704 Probability](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html) - Boston University course on probability.
 - [StatQuest][statquest] - Series of videos on miscellaneous complex topics
   such as p-values, principle component analysis (PCA), and R-squared.
 - [STAT 505 Applied Multivariate Statistical Analysis][pennstat] - Penn State
@@ -79,7 +79,6 @@ Curated resource materials from around the internet for data science, with appli
 - [Modern Statistics for Modern Biologists][msmb]
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - With editions in R and Python.
 
-[buprob]: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html
 [statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
 [pennstat]: https://onlinecourses.science.psu.edu/stat505/
 [statsoft]: https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook
