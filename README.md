@@ -339,6 +339,10 @@ Curated resource materials from around the internet for data science, with appli
 
 ## Structural Query Language (SQL)
 
+> SQL is a domain-specific language used to manage data, especially in a relational database management system (RDBMS).
+> 
+> — [Wikipedia](https://en.wikipedia.org/wiki/SQL)
+
 - [Select Star SQL](https://selectstarsql.com/) - Interactive online book with a non-toy dataset to learn SQL.
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Tutorials learning SQL step-by-step by function.
 - [SQL Tutorial](https://www.sqltutorial.org/) - Quick access tutorials on SQL.
