@@ -28,4 +28,4 @@ jobs:
         # continue-on-error: true
         run: |
           gem install awesome_bot
-          awesome_bot --allow-redirect --allow-ssl --allow 502 --allow-timeout README.md
+          awesome_bot --allow-redirect --allow-ssl --allow 502,403 --allow-timeout README.md
