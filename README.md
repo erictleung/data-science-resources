@@ -56,12 +56,10 @@ Curated resource materials from around the internet for data science, with appli
 - [Stat Trek](http://stattrek.com/) - Teach yourself statistics.
 - [Online Statistics Education](http://onlinestatbook.com/2/index.html) - Developed by Rice University, University of Houston Clear Lake, and Tufts University.
 - [BS704 Probability](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/index.html) - Boston University course on probability.
-- [StatQuest][statquest] - Series of videos on miscellaneous complex topics
-  such as p-values, principle component analysis (PCA), and R-squared.
-- [STAT 505 Applied Multivariate Statistical Analysis][pennstat] - Penn State
-  Eberly College of Science course.
-- [StatSoft Electronic Statistics Textbook][statsoft]
-- [UW Summer Institutes Archive Material](https://si.biostat.washington.edu/archives) - Various learning
+- [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR) - Series of videos on miscellaneous complex topics such as p-values, principle component analysis (PCA), and R-squared.
+- [STAT 505 Applied Multivariate Statistical Analysis](https://onlinecourses.science.psu.edu/stat505/) - Penn State Eberly College of Science course.
+- [StatSoft Electronic Statistics Textbook](https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook)
+- [UW Summer Institutes Archive Material](https://si.biostat.washington.edu/about/archives) - Various learning
   material in statistics, data analysis, machine learning, genetics, and
   clinical research.
 - [Practical Data Science for Stats][peerjstats] - Collection of curated articles
@@ -79,9 +77,6 @@ Curated resource materials from around the internet for data science, with appli
 - [Modern Statistics for Modern Biologists][msmb]
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - With editions in R and Python.
 
-[statquest]: https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR
-[pennstat]: https://onlinecourses.science.psu.edu/stat505/
-[statsoft]: https://web.archive.org/web/20200221222547/http://www.statsoft.com/Textbook
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
 [ordokstate]: http://ordination.okstate.edu/
