@@ -362,6 +362,7 @@ Curated resource materials from around the internet for data science, with appli
 - [Google's Machine Learning Crash Course][googleml] - Learn TensorFlow APIs.
 - [Learning Math for Machine Learning by Vincent Chen][learnmath]
 - [Calculus Made Easy][easycalc] (PDF)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 [nb1]: https://youtu.be/XcwH9JGfZOU
 [nb2]: https://youtu.be/k2diLn5Nqbs
