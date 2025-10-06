@@ -76,6 +76,7 @@ Curated resource materials from around the internet for data science, with appli
 - [Statistics for Hackers][statshacks] - By Jake VanderPlas (PyCon 2016)
 - [Modern Statistics for Modern Biologists][msmb]
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - With editions in R and Python.
+- [Library of Statistical Techniques (LOST)](https://lost-stats.github.io/) - Publicly-editable website with the goal of making it easy to execute statistical techniques in statistical software.
 
 [peerjstats]: https://peerj.com/collections/50-practicaldatascistats/
 [topcrossvotes]: https://stats.stackexchange.com/questions?sort=votes
