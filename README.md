@@ -203,7 +203,7 @@ Curated resource materials from around the internet for data science, with appli
   Bullshit Guide to Linear Algebra by Ivan Savov.
 - [S.O.S. Mathematics Matrix Algebra][sosmath]
 - [PCA, Eigenvectors, and Eigenvalues (Cross Validated)][eigenstats]
-- [The Matrix Reference Manual][matmanual] - Reference information about
+- [The Matrix Reference Manual](http://archive.today/2012.12.23-020729/http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html) - Reference information about
   linear algebra and the properties of real and complex matrices.
 - [Linear Algebra Review and Reference - Kolter and Do (PDF)][cs229lin]
 - [Immersive Linear Algebra][immersivelinalg]
@@ -213,7 +213,6 @@ Curated resource materials from around the internet for data science, with appli
 [linbull]: https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
 [sosmath]: http://www.sosmath.com/matrix/matrix.html
 [eigenstats]: https://stats.stackexchange.com/a/140579/
-[matmanual]: http://www.ee.ic.ac.uk/hp/staff/dmb/matrix/intro.html
 [cs229lin]: http://cs229.stanford.edu/section/cs229-linalg.pdf
 [immersivelinalg]: http://immersivemath.com/ila/index.html
 
